@@ -10,7 +10,8 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
+My project domain is an unofficial guide to the UC Merced Computer Science and Engineering major. This system will help students ask questions about CSE courses, degree requirements, professors, electives, programming focus, and student experiences. 
+This knowledge is valuable because official university pages explain requirements, but they do not always explain what students actually experience in classes or with professors. The information is hard to find because it is spread across the UC Merced catalog, advising pages, program maps, Rate My Professor reviews, Reddit discussions, Quora posts, and course review sites.
 ---
 
 ## Documents
