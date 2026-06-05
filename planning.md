@@ -47,10 +47,13 @@
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
+#### I will use about 300-500 words per chunk for long official documents such as the UC Merced catalog, major requirements page, and program map. For short student-generated sources such as Rate My Professor reviews, Reddit comments, Quora responses, and Coursicle feedback, I will keep each review or comment as its own chunk when possible.
 
 **Overlap:**
+#### I will use about 50-100 words of overlap for long official documents. I will not use much overlap for short reviews or comments because each one is already small and mostly self-contained.
 
 **Reasoning:**
+#### My sources have mixed structures. Official documents are longer and contain connected information about course requirements, prerequisites, and degree planning, so overlap helps prevent important details from being split across chunks. Student reviews and discussion comments are shorter and opinion-based, so smaller chunks are better because they keep each student’s opinion focused and avoid mixing unrelated professors or courses together. If chunks are too small, the system might retrieve text that mentions a course or professor but loses the opinion or requirement connected to it. If chunks are too large, the system might retrieve too much unrelated information, such as multiple courses or multiple professors in one chunk, which could make the final answer less accurate.
 
 ---
 
@@ -63,11 +66,13 @@
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
+#### I will use the sentence-transformers model `all-MiniLM-L6-v2`, which is the recommended embedding model for this project. It runs locally, does not require API calls, and converts text chunks into vector embeddings that can be stored and searched efficiently in ChromaDB.
 
 **Top-k:**
+#### I will retrieve the top 4 most relevant chunks for each query.
 
 **Production tradeoff reflection:**
-
+#### I selected `all-MiniLM-L6-v2` because it is fast, free, and works well for semantic search on educational and review-based text. Retrieving the top 4 chunks should provide enough context for the language model while avoiding excessive irrelevant information. If this system were deployed in production, I would compare embedding models based on retrieval accuracy, latency, multilingual support, context coverage, and cost. Larger embedding models may produce more accurate semantic matches, especially for complex student questions, but they often require more compute resources and increase response time. I would also evaluate whether multilingual embeddings would be beneficial for supporting students who ask questions in languages other than English.
 ---
 
 ## Evaluation Plan
@@ -79,11 +84,12 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What lower-division courses must a UC Merced student complete before taking most upper-division CSE courses?|The answer should reference required foundational courses such as CSE 030, CSE 031, CSE 100, this are one of the main prerequistes for CSE upper levels but in order to take CSE 030 the student must have completed CSE 022, and CSE 024 |
+| 2 |Which CSE electives do students describe as the hardest and easiest? | The answer should summarize students opinions from the Reddit's link but from rate my professor I noticed that the hardes course is CSE 100 so I would expect that to be mention|
+| 3 | What courses are taught by Professor Stefano Carpin
+? | The answer should summarize feedback from Rate My Professor reviews and mention courses from the faculty UCM page |
+| 4 | Is the UC Merced CSE major heavily focused on programming?  | The answer should combine information from the Quora discussion and official course requirements to explain the role of programming within the major. Which some of the post mention that CSE was focus on programming |
+| 5 | Which courses are required for graduation in the UC Merced CSE major? | The answer should use the official catalog and major requirements pages to identify the major preparation, lower-division, upper-division, and elective requirements. |
 
 ---
 
@@ -93,9 +99,15 @@
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. My sources contain a mixture of official university documents and student-generated content. Official catalog pages are structured and factual, while Reddit posts and Rate My Professor reviews are opinion-based and sometimes inconsistent. This may make retrieval difficult because different sources may provide different perspectives on the same course or professor.
 
-2.
+
+2. Some queries may retrieve information about the correct professor but the wrong course, since several professors teach multiple CSE classes. To reduce this issue, I will preserve metadata such as professor names, course numbers, and source information during ingestion.
+
+3. Student reviews often contain informal language, abbreviations, and subjective opinions. Semantic search may sometimes retrieve comments that are related to a professor but not directly relevant to the user's question.
+
+4. Important information may be split across multiple chunks, especially in long documents such as the CSE catalog and program map. If chunk sizes are too small, the retrieval system may find only part of a requirement or prerequisite chain, leading to incomplete answers.
+
 
 ---
 
@@ -106,7 +118,7 @@
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
-
+![Architecture Diagram](architectureAi201P1.png)
 ---
 
 ## AI Tool Plan
@@ -122,7 +134,11 @@
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
+#### I plan to use Claude through the CodePath institutional plan and ChatGPT to help implement the ingestion and chunking pipeline. I will give the AI my Domain, Documents, and Chunking Strategy sections, then ask it to help write functions that load raw documents, clean unnecessary text, preserve source metadata, and split documents according to my specified chunk sizes and overlap. I will verify the output by printing sample chunks from different source types and checking that each chunk keeps enough context, includes source information, and does not mix unrelated professors or courses.
 
 **Milestone 4 — Embedding and retrieval:**
+#### I plan to use Claude and ChatGPT to help implement the embedding and retrieval system. I will give the AI my Retrieval Approach section and ask it to write code that embeds chunks using `sentence-transformers/all-MiniLM-L6-v2`, stores them in ChromaDB, and retrieves the top 4 most relevant chunks for a user query. I will verify the output by running my 5 evaluation questions and checking whether the retrieved chunks come from the correct sources.
 
 **Milestone 5 — Generation and interface:**
+#### I plan to use Claude and ChatGPT to help implement grounded answer generation and a basic query interface. I will give the AI my Evaluation Plan, Architecture, and Retrieval Approach sections, then ask it to create a simple command-line or web interface where the user can enter a question, retrieve relevant chunks, and generate an answer using Groq. I will verify the output by checking that every answer uses only the retrieved context, includes citations, and avoids unsupported claims.
+
