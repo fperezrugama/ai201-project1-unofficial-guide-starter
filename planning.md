@@ -10,8 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-My project domain is an unofficial guide to the UC Merced Computer Science and Engineering major. This system will help students ask questions about CSE courses, degree requirements, professors, electives, programming focus, and student experiences. 
-This knowledge is valuable because official university pages explain requirements, but they do not always explain what students actually experience in classes or with professors. The information is hard to find because it is spread across the UC Merced catalog, advising pages, program maps, Rate My Professor reviews, Reddit discussions, Quora posts, and course review sites.
+#### My project domain is an unofficial guide to the UC Merced Computer Science and Engineering major. This system will help students ask questions about CSE courses, degree requirements, professors, electives, programming focus, and student experiences. This knowledge is valuable because official university pages explain requirements, but they do not always explain what students actually experience in classes or with professors. The information is hard to find because it is spread across the UC Merced catalog, advising pages, program maps, Rate My Professor reviews, Reddit discussions, Quora posts, and course review sites.
 ---
 
 ## Documents
@@ -21,16 +20,22 @@ This knowledge is valuable because official university pages explain requirement
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | UC Merced CSE Catalog Course Plan | Official 2023 CSE course plan and catalog information | https://catalog.ucmerced.edu/content.php?catoid=22&navoid=2362 |
+| 2 | UC Merced CSE Major Requirements | Official required courses and major preparation information|https://catalog.ucmerced.edu/preview_program.php?catoid=22&poid=2703|
+| 3 | UC Merced CSE Department / Faculty Page | Faculty information and CSE department overview |https://engineering.ucmerced.edu/departments/computer-science-engineering-cse|
+| 4 |CSE Program Map| PDF program map showing course sequencing for the CSE major |https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/cse_flow_21_22_final_0.pdf|
+| 5 | Reddit: Hardest and Easiest CSE Electives | Student discussion about which CSE electives are difficult or manageable |https://www.reddit.com/r/ucmerced/comments/1nu6w64/comment/ngzspcp/ |
+| 6 | Reddit: How is the CSE Program? | Student discussion about the quality and experience of the UC Merced CSE program  | https://www.reddit.com/r/ucmerced/comments/1i1njqh/how_is_the_computer_science_and_engineering/ |
+| 7 | Quora: Programming Focus in CSE | Discussion about whether UC Merced CSE focuses on programming |https://www.quora.com/Does-the-major-of-computer-science-and-engineering-have-a-focus-on-programming-at-all-I-am-interested-in-programming-and-want-to-go-to-UC-Merced|
+| 8 | Rate My Professor | General scores for CSE professors | https://www.ratemyprofessors.com/search/professors/4767?q=*&did=11 |
+| 9 | Rate My Professor: Pengfei Su | Student reviews related to CSE 100 Algorithm Design and Analysis | https://www.ratemyprofessors.com/professor/2723300 |
+| 10 | Rate My Professor: Hua Huang |Student reviews related to CSE 100, prerequisites, and upper-level courses | https://www.ratemyprofessors.com/professor/2778518 |
+| 11 | Rate My Professor: Santosh Chandrasekhar | Student reviews related to CSE 031 Computer Organization and Assembly  and CSE 120 Software Development | https://www.ratemyprofessors.com/professor/2426500 |
+| 12 | Rate My Professor: Angelo Kyrilov | Student reviews related to CSE 022 Introduction to Programming, CSE 024 Advanced Programming, and CSE 030 Data Structures | https://www.ratemyprofessors.com/professor/2287924 |
+| 13 | Rate My Professor: Stefano Carpin | Student reviews related to CSE 015 Discrete Mathematics and CSE 180 Intro to Robotics | https://www.ratemyprofessors.com/professor/2613245 |
+| 14 | Rate My Professor: Ross Greer | Student reviews related to CSE 185 Computer Vision | https://www.ratemyprofessors.com/professor/3105710 |
+| 15 | Rate My Professor: Ammon Hepworth | Student reviews related to CSE 108 Web Development | https://www.ratemyprofessors.com/professor/2767416 |
+| 16 | Coursicle UC Merced CSE Courses | Course listings and possible student course feedback | https://www.coursicle.com/ucmerced/courses/CSE/ | 
 
 ---
 
