@@ -1,0 +1,158 @@
+Title: Rate My Professor - Santosh Chandrasekhar
+
+Source Type: Student Reviews
+
+URL: https://www.ratemyprofessors.com/professor/2426500
+
+Document Category: Professor Reviews and Course Experiences
+
+Professor Information
+
+Name: Santosh Chandrasekhar
+
+Department:
+- Computer Science and Engineering
+
+Courses Commonly Reviewed:
+- CSE 031 Computer Organization and Assembly Language
+- CSE 120 Software Engineering
+- CSE 111 Database Systems
+- CSE 100 Algorithm Design and Analysis
+
+Overall Rating Summary
+
+Overall Quality:
+- 3.0 / 5
+
+Would Take Again:
+- 54%
+
+Difficulty:
+- 3.2 / 5
+
+Common Positive Themes
+
+- Students often describe his grading criteria as clear and structured.
+- Many CSE 031 reviews say labs and projects help students understand the material.
+- Several students say he is accessible outside class and willing to answer questions.
+- Some students describe him as caring and invested in student learning.
+- CSE 120 students often mention strong project feedback and real-world project expectations.
+- CSE 111 reviews are generally positive, especially for students interested in databases.
+
+Common Negative Themes
+
+- Lectures are sometimes described as long, dense, or boring.
+- Some students say exams are difficult or time-constrained.
+- Older CSE 100 reviews describe the course as test-heavy and unforgiving.
+- Some CSE 120 reviews say his feedback can feel harsh during project presentations.
+- Several reviews mention heavy workloads, especially in project-based classes.
+
+Course-Specific Feedback
+
+----------------------------------
+
+CSE 031: Computer Organization and Assembly Language
+
+Frequently Mentioned Strengths:
+- Clear grading criteria.
+- Labs and projects help reinforce the concepts.
+- Exams may be open-note in some semesters.
+- Homework and labs can help balance exam performance.
+- Students say he explains expectations clearly.
+- Some students describe the course as fair and manageable if they keep up.
+
+Frequently Mentioned Challenges:
+- Lectures can be dense or difficult to sit through.
+- Exams may be tricky or time-constrained.
+- Projects can be demanding.
+- Students with less experience in C or low-level programming may need extra practice.
+
+Student Advice:
+- Do the labs and homework carefully.
+- Do not wait until the last minute on projects.
+- Attend lectures or take good notes.
+- Use study guides and review materials when available.
+
+----------------------------------
+
+CSE 120: Software Engineering
+
+Frequently Mentioned Strengths:
+- Strong emphasis on group projects and real-world software development.
+- Gives detailed feedback on projects.
+- Students say he cares about project quality.
+- Some students say he invests time in helping teams improve.
+
+Frequently Mentioned Challenges:
+- Project reviews and presentations can feel intense.
+- Some students describe his feedback as harsh or stressful.
+- Success may depend heavily on team quality and project engagement.
+
+Student Advice:
+- Follow project directions carefully.
+- Take feedback seriously.
+- Communicate clearly with teammates.
+- Start project work early.
+
+----------------------------------
+
+CSE 111: Database Systems
+
+Frequently Mentioned Strengths:
+- Generally reviewed positively.
+- Lectures are described as clear and manageable.
+- Homework is considered reasonable.
+- Students liked the project structure and ability to choose teams or topics.
+- The course is useful for students interested in SQL and database programming.
+
+Frequently Mentioned Challenges:
+- Students should practice textbook problems.
+- Study guides may vary by semester.
+- Exams may require deeper SQL and relational algebra understanding, not just simple queries.
+
+Student Advice:
+- Practice SQL carefully.
+- Review relational algebra and tree concepts.
+- Use textbook problems to prepare for exams.
+
+----------------------------------
+
+CSE 100: Algorithm Design and Analysis
+
+Frequently Mentioned Strengths:
+- Some reviews describe the class as important and lecture-heavy.
+- Students who study consistently may benefit from the structure.
+
+Frequently Mentioned Challenges:
+- Older reviews are mostly negative.
+- Exams are described as heavily weighted and difficult.
+- Some students say lectures overexplained material or went overtime.
+- Several reviews mention time pressure on exams.
+- Students report needing to learn from the textbook or outside resources.
+
+Student Advice:
+- Study throughout the week.
+- Do not rely only on lectures.
+- Prepare carefully for exams because they may carry a large portion of the grade.
+
+Recurring Themes Across All Courses
+
+Teaching Style:
+- Structured and detailed, but sometimes dense or lecture-heavy.
+- Often clear about expectations.
+- Can be serious and demanding, especially in project-based courses.
+
+Grading:
+- Clear grading criteria are frequently mentioned.
+- CSE 031 and CSE 111 are often described as fair and manageable.
+- CSE 100 reviews describe grading as more exam-heavy.
+- Project-based courses may involve detailed and sometimes tough feedback.
+
+Workload:
+- Labs, projects, and homework are important in CSE 031 and CSE 120.
+- CSE 111 is manageable but requires SQL practice.
+- CSE 100 is described as more difficult and test-focused.
+
+Overall Student Consensus
+
+Students have mixed but course-dependent opinions about Professor Santosh Chandrasekhar. Reviews for CSE 031, CSE 111, and CSE 120 are often positive or balanced, with students mentioning clear grading, useful projects, and accessible support. Reviews for CSE 100 are more negative, with repeated concerns about difficult exams, time pressure, and heavy reliance on tests. Overall, students describe him as structured, serious, and project-focused, with stronger reviews in systems, software engineering, and database-related courses than in algorithms.

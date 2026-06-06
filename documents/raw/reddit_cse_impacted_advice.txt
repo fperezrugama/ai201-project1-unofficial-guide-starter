@@ -1,0 +1,115 @@
+Title: Will Computer Science and Engineering Become Impacted at UC Merced?
+
+Source Type: Reddit Discussion
+
+URL: https://www.reddit.com/r/ucmerced/comments/1gvksls/will_cse_ever_be_impacted_at_ucm/
+
+Document Category: Enrollment, Course Availability, and Program Growth
+
+Original Question:
+
+A student asked whether the Computer Science and Engineering (CSE) major at UC Merced may become impacted in the future due to increasing demand and enrollment.
+
+Student Responses:
+
+User: Autobot1979
+
+Opinion:
+
+* CSE is effectively impacted already, even if it is not officially designated as impacted.
+* Students may struggle to graduate in four years because required mathematics and engineering courses can be difficult to enroll in.
+* The prerequisite sequence creates bottlenecks:
+
+Course Progression:
+
+CSE 022 Introduction to Programming
+CSE 024 Advanced Programming
+CSE 030 Data Structures
+CSE 031 Computer Organization and Assembly Language
+
+Comments on Technical Electives:
+
+* Most upper-division electives require CSE 031.
+* Students typically cannot begin many technical electives until their fifth semester.
+* Some electives are only offered occasionally, limiting scheduling flexibility.
+
+Concerns:
+
+* More CSE faculty may be needed to support enrollment growth.
+* Delayed graduation can increase student debt.
+* Summer courses are not always a complete solution because many upper-division courses are unavailable and financial aid options may be limited.
+
+Additional Discussion:
+
+User: internetbooker134
+
+Opinion:
+
+* Additional faculty hiring would help support the growing CSE department.
+* Recruiting faculty to Merced may be challenging compared to larger college towns.
+* Infrastructure improvements, including new classroom facilities, may help support future enrollment growth.
+
+Additional Discussion:
+
+User: why_not_my_email (Faculty Member)
+
+Opinion:
+
+* Computer science programs often face hiring challenges because industry positions can offer significantly higher salaries than academic positions.
+* Faculty recruitment is a common challenge across many computer science departments.
+* Computer science has become an extremely popular major despite concerns about job market saturation.
+
+Additional Discussion:
+
+User: Autobot1979
+
+Opinion:
+
+The technology job market is highly competitive.
+Students should focus on developing skills that distinguish them from other applicants.
+Interest in computer science remains strong because many students believe technology careers will remain important even as AI becomes more common.
+
+Additional Discussion:
+
+User: [deleted]
+
+Opinion:
+
+The UC application guide lists College of Engineering majors as selective.
+This may indicate that engineering programs already experience significant enrollment demand.
+
+Additional Discussion:
+
+User: Autobot1979
+
+Opinion:
+
+Engineering prerequisite courses such as ENGR 065 can be difficult to obtain due to limited course sections.
+Students may have limited flexibility when building schedules.
+Course availability can make balancing academics, work, and extracurricular activities more difficult.
+
+Key Themes Mentioned Across the Discussion:
+
+Positive:
+
+Continued growth of the CSE program.
+Planned infrastructure expansion and new facilities.
+Strong student interest in computer science and engineering.
+
+Challenges:
+
+Difficulty registering for required courses.
+Limited availability of some technical electives.
+Potential delays in graduation timelines.
+Faculty recruitment challenges.
+Increasing enrollment demand.
+Competitive technology job market.
+
+Common Student Concerns:
+
+Graduating within four years.
+Access to prerequisite courses.
+Availability of technical electives.
+Faculty-to-student ratio.
+Long-term career opportunities in computer science.
+

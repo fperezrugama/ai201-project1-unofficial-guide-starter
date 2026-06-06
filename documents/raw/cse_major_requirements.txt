@@ -1,0 +1,73 @@
+Title: UC Merced CSE Major Requirements (2023-2024)
+
+Source Type: Official Catalog
+
+URL: https://catalog.ucmerced.edu/preview_program.php?catoid=22&poid=2703
+
+Document Category: Degree Requirements
+
+Content:
+
+OVERVIEW
+Students pursuing the B.S. in Computer Science and Engineering must complete all required courses with a C- or better.
+
+REPEAT POLICY
+- Students must repeat required courses if they receive:
+  D+, D, D-, F, Unsatisfactory, or Not Passed.
+- A course may normally be repeated only once.
+- Additional attempts require petition approval.
+
+REQUIRED MAJOR PREPARATION
+Mathematics Requirements (20 units)
+
+- MATH 021: Calculus I
+- MATH 022: Calculus II
+- MATH 023: Vector Calculus
+- MATH 024: Linear Algebra and Differential Equations
+- MATH 032: Probability and Statistics
+
+Physics Requirements (8 units)
+
+- PHYS 008
+- PHYS 008L
+- PHYS 009
+- PHYS 009L
+
+CSE CORE REQUIREMENTS
+
+Lower Division
+
+- CSE 015
+- CSE 022
+- CSE 024
+- CSE 030
+- CSE 031
+- ENGR 065
+
+Upper Division
+
+- CSE 100
+- CSE 120
+
+TECHNICAL ELECTIVES
+- 30 total units required
+- At least 20 units must be upper-division or graduate CSE courses
+- Up to 4 units of CSE 195 may count
+
+PROFESSIONAL DEVELOPMENT
+
+- ENGR 091
+
+TRANSFER STUDENT REQUIREMENTS
+
+Required before transfer:
+
+- MATH 021
+- MATH 022
+- MATH 023
+- MATH 024
+- PHYS 008
+- PHYS 009
+
+
+

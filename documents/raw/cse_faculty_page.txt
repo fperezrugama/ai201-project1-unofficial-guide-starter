@@ -1,0 +1,227 @@
+Title: UC Merced CSE Faculty Directory
+
+Source Type: Department Website
+
+URL: https://engineering.ucmerced.edu/departments/computer-science-engineering-cse
+
+Document Category: Faculty and Research Areas
+
+Content:
+
+Ahmed Arif
+Title: Assistant Professor
+
+Email: asarif@ucmerced.edu
+
+Courses Frequently Taught:
+- CSE 155 Human Computer Interaction
+
+Research Areas:
+- Mobile interaction
+- Usable security
+- Child-computer interaction
+- Scientific data visualization
+
+----------------------------------
+
+Stefano Carpin
+Title: Professor
+
+Email: scarpin@ucmerced.edu
+
+Courses Frequently Taught:
+- CSE 015 Discrete Mathematics
+- CSE 180 Introduction to Robotics
+
+Research Areas:
+- Robotics
+- Artificial Intelligence
+- Motion Planning
+- Multi-Robot Systems
+
+Santosh Chandrasekhar
+Title: Assistant Teaching Professor
+
+Email: schandrasekhar@ucmerced.edu
+
+Courses Frequently Taught:
+- CSE 031 Computer Organization and Assembly Language
+- CSE 120 Software Engineering
+
+Research Areas:
+- Computer Science Education
+- Security Education
+
+----------------------------------
+
+Angelo Kyrilov
+Title: Assistant Teaching Professor
+
+Email: akyrilov@ucmerced.edu
+
+Courses Frequently Taught:
+- CSE 022 Introduction to Programming
+- CSE 024 Advanced Programming
+- CSE 030 Data Structures
+
+Research Areas:
+- Undergraduate Computer Science Education
+
+----------------------------------
+
+Ross Greer
+Title: Assistant Professor
+
+Email: rossgreer@ucmerced.edu
+
+Courses Frequently Taught:
+- CSE 185 Computer Vision
+
+Research Areas:
+- Computer Vision
+- Human-Robot Interaction
+- Autonomous Driving
+- Machine Learning
+
+----------------------------------
+
+Yiwei Wang
+Title: Assistant Professor
+
+Email: yiweiwang2@ucmerced.edu
+
+Courses Frequently Taught:
+- CSE 188 Natural Language Processing
+
+Research Areas:
+- Natural Language Processing
+- Large Language Models
+- Graph Machine Learning
+- Social Media Analysis
+
+----------------------------------
+
+Hua Huang
+Title: Assistant Professor
+
+Email: hhuang80@ucmerced.edu
+
+Courses Frequently Taught:
+- CSE 100 Algorithm Design and Analysis
+- CSE 162 Mobile Computing
+
+Research Areas:
+Sensor Systems
+Wireless Networks
+Ubiquitous Computing
+Smart Healthcare
+
+----------------------------------
+
+Hyeran Jeon
+Title: Associate Professor
+
+Email: hjeon7@ucmerced.edu
+
+Courses Frequently Taught:
+- CSE 140 Computer Architecture
+
+Research Areas:
+Computer Architecture
+HW/SW Interaction
+Energy Efficient System
+Reliable and Secure System 
+
+----------------------------------
+
+Shawn Newsam
+Title: Professor
+
+Email: snewsam@ucmerced.edu
+
+Courses Frequently Taught: 
+- CSE 107 Introduction to Digital Image Processing
+
+Research Areas:
+Image processing
+Computer vision
+Pattern recognition
+Machine learning
+Content-based information retrieval
+Digital libraries, data mining and knowledge discovery in spatio-temporal, multimedia and scientific datasets
+
+----------------------------------
+
+Pengfei Su
+Title: Assistant Professor
+
+Email: psu9@ucmerced.edu
+
+Courses Frequently Taught:
+- CSE 100 Algorithm Design and Analysis
+
+Research Areas:
+Programming Languages
+Static and Dynamic Program Analysis
+High-performance/Parallel Computing
+Software Engineering
+
+----------------------------------
+
+Miguel Carreira-Perpiñán
+Title: Professor
+
+Courses Frequently Taught:
+- CSE 176 Introduction to Machine Learning
+
+----------------------------------
+
+Florin Rusu
+Title: Professor and Department Chair (CSE)
+
+Courses Frequently Taught:
+- CSE 111 Database Systems
+
+----------------------------------
+
+FACULTY BY RESEARCH AREA
+
+Artificial Intelligence / Machine Learning
+- Yiwei Wang
+- Ross Greer
+- Meng Tang
+- Miguel Carreira-Perpiñán
+- Ming-Hsuan Yang
+
+Computer Vision
+- Ross Greer
+- Shawn Newsam
+- Meng Tang
+- Ming-Hsuan Yang
+
+Natural Language Processing
+- Yiwei Wang
+
+Robotics
+- Stefano Carpin
+
+Programming Languages and Software Engineering
+- Pengfei Su
+
+Computer Architecture
+- Hyeran Jeon
+
+Human-Computer Interaction
+- Ahmed Arif
+
+Computer Networks and IoT
+- Hua Huang
+- Wan Du
+- Shijia Pan
+
+Databases and Data Management
+- Florin Rusu
+
+High Performance Computing
+- Dong Li
+- Xiaoyi Lu

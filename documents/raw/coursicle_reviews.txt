@@ -1,0 +1,646 @@
+Title: Coursicle Reviews and Course Information for UC Merced CSE Courses
+
+Source Type: Course Review Website
+
+URL: https://www.coursicle.com/ucmerced/courses/CSE/
+
+Document Category: Course Reviews, Course Descriptions, and Student Feedback
+
+Content:
+
+OVERVIEW
+
+This document summarizes Coursicle information for selected UC Merced Computer Science and Engineering courses. It includes course descriptions, recent professors, class size ranges, student review themes, and difficulty signals. Unrelated website content such as advertisements, TikTok promotions, section links, and repeated navigation text has been removed.
+
+--------------------------------------------------
+
+CSE 100: Algorithm Design and Analysis
+
+Course Description:
+Introduction to the design and analysis of computer algorithms. Topics include algorithm complexity, divide and conquer, dynamic programming, greedy algorithms, searching and sorting, graphs, data structures, and optimization techniques.
+
+Credits:
+- 4 units
+
+Attributes:
+- Upper Division Crossroads GE
+
+Recent Professors:
+- Shuo Chen
+- Hua Huang
+- Wesley Maia
+- Yi Liu
+- Xingjian Ding
+- Pengfei Su
+- Kianna Ng
+- Haide He
+- Weijie Lyu
+- Rasul Kairgeldin
+- Alberto Cerpa
+- Kuat Gazizov
+- Sravan Jayati
+- Liuyao Dai
+- Xiaoyi Lu
+- Hao Qi
+
+Class Size:
+- About 24 to 210 students
+
+Student Review Themes:
+- CSE 100 is often described as difficult and important for the CSE major.
+- Some reviews mention strict grading and long midterms.
+- Automatic grading can be a major factor in student experience.
+- Students report that professor choice can significantly affect the course experience.
+
+Representative Student Feedback:
+- One student said Miguel Carreira-Perpiñán was strict on grading and that the midterm was very long for the time allowed.
+- One student described Alberto Cerpa as sometimes accommodating and kind, but also said his teaching style may not fit all learning preferences.
+
+RAG Notes:
+CSE 100 is a foundational upper-division course and is a prerequisite or important preparation for many later CSE courses. Student feedback suggests that the course is challenging regardless of professor, but grading style and exam structure vary by instructor.
+
+--------------------------------------------------
+
+CSE 108: Full Stack Web Development
+
+Course Description:
+Explores front-end and back-end web development, including web security, scalable architecture, web frameworks, databases, and object-relational mappers.
+
+Recent Professors:
+- Ammon Hepworth
+- Qhelile Sibanda
+- Tri Dang
+- Weimin Qiu
+- Jingquan Li
+- Sravan Jayati
+- Dong Lee
+- Haolin Liang
+
+Class Size:
+- About 28 to 150 students
+
+Student Review Themes:
+- CSE 108 is often described as one of the easier upper-division CSE electives.
+- Students say it can be useful for practical web development.
+- Some students describe the course as self-taught.
+- Group projects are an important part of the course.
+
+Representative Student Feedback:
+- One student said Professor Ammon Hepworth is one of their favorite CSE professors and that CSE 108 is well taught and useful.
+- Another student said the class is easy to pass but criticized it as heavily self-taught and poorly connected between lectures and assignments.
+
+RAG Notes:
+CSE 108 is useful for students interested in web development and project-based learning. It may be a lighter elective, but students should expect to learn some tools independently.
+
+--------------------------------------------------
+
+CSE 120: Software Engineering
+
+Course Description:
+Teams work on approved design projects or software teams. Students practice design methodology and modern software engineering techniques to create reliable, efficient, reusable, and maintainable software systems.
+
+Credits:
+- 4 units
+
+Attributes:
+- Intellectual Experience: Scientific Method
+- Upper Division Culminating Experience
+
+Recent Professors:
+- Santosh Chandrasekhar
+- Michael Pisman
+- Sravan Jayati
+- Haolin Liang
+- Shrishail Baligar
+- Magzhan Gabidolla
+- Siddharth Seth
+- Aditya Ranganath
+- Taihong Xiao
+- Azar Alizadeh
+- Pawan Yarakareddy
+- Suryabhan Hada
+- Akshay Bhatia
+- Yuan Ren
+- Nigel Bernard
+- Hsin-Ping Huang
+
+Class Size:
+- About 20 to 210 students
+
+Student Review Themes:
+- CSE 120 is heavily project-based.
+- Teamwork is central to the course.
+- Some students appreciate strong project feedback.
+- Group accountability can be a challenge.
+
+Representative Student Feedback:
+- One student said Santosh Chandrasekhar puts effort into helping teams improve their projects.
+- Another student said the main purpose of the class is working on a group project and wished there were better systems to hold all group members accountable.
+
+RAG Notes:
+CSE 120 is the culminating software engineering course. Students should expect teamwork, project development, presentations, and feedback on software design.
+
+--------------------------------------------------
+
+CSE 022: Introduction to Programming
+
+Course Description:
+Introduces programming, computational thinking, and problem-solving. Students learn programming skills, version control, unit testing, and debugging. The course uses a project-based learning philosophy, with Python as the main language and some exposure to HTML, CSS, JavaScript, and SQL.
+
+Credits:
+- 4 units
+
+Recent Professors:
+- Giovanni Araujo
+- Angelo Kyrilov
+- Jannatul Srabonee
+- Hang Wu
+- Rasul Kairgeldin
+- Jieke Wang
+- Hsin-Ying Lee
+- Dong Lee
+- Dinghong Song
+- Nasit Sony
+- Zhizhang Hu
+- Younce Yang
+- Zhixun He
+- Maryam Pool
+- Jothi Sundaram
+- Amit Thakur
+
+Class Size:
+- About 22 to 300 students
+
+Student Review Themes:
+- CSE 022 is an introductory programming course, but students still report that labs and exams can be challenging.
+- Professor choice affects the experience.
+- Lab feedback and email responsiveness are common concerns in some reviews.
+
+Representative Student Feedback:
+- One review of Angelo Kyrilov said lab feedback was limited and exams counted heavily.
+- One review of Giovanni Araujo said he teaches well and is willing to work with students on missed lab attendance, though email responses may be slow.
+
+RAG Notes:
+CSE 022 is a foundational course for the CSE programming sequence. Students should take labs seriously because they prepare for later programming courses.
+
+--------------------------------------------------
+
+CSE 024: Advanced Programming
+
+Course Description:
+Introduces advanced programming techniques such as pointers, memory management, exception handling, multithreading, object-oriented programming, and generic programming. The C++ language is used throughout the course.
+
+Credits:
+- 4 units
+
+Recent Professors:
+- Giovanni Araujo
+- Kuat Gazizov
+- Dong Xu
+- Yuanlin Yang
+- Shuo Chen
+- Khine Mon
+- Angelo Kyrilov
+- Mujahid Rafi
+- Haolin Liang
+- Shangjie Du
+- Mao Lin
+- Jianbo Wu
+- Hui Feng
+- Rahul Hoskeri
+- Yi Liu
+- Shubham Rohal
+
+Class Size:
+- About 15 to 292 students
+
+Student Review Themes:
+- CSE 024 builds on introductory programming and often uses C++.
+- Students with AP Computer Science or prior programming experience may find the course easier.
+- Some students say course organization and quizzes vary by professor.
+
+Representative Student Feedback:
+- One review said Angelo Kyrilov teaches C++ well and is approachable.
+- One review of Giovanni Araujo said the course was lecture-dependent and quiz-heavy.
+
+RAG Notes:
+CSE 024 is important preparation for Data Structures and later CSE courses. Students should expect C++ and more advanced programming concepts.
+
+--------------------------------------------------
+
+CSE 015: Discrete Mathematics
+
+Course Description:
+Explores discrete mathematics used in computer science and formal reasoning. Topics include logic, proof techniques, counting, recursion, discrete probability, relations, graphs, trees, and Boolean algebra.
+
+Credits:
+- 4 units
+
+Recent Professors:
+- Dong Li
+- Kianna Ng
+- Jannatul Srabonee
+- Angelo Kyrilov
+- Shubham Rohal
+- Utkarsh Mohan
+- Abylay Amanbayev
+- Hamid Rajabi
+- Siddharth Seth
+- Shangye Chen
+- Alex Nguyen
+- Dhawal Modi
+- Xinwei Zhou
+- Jieke Wang
+- Fan Zhao
+- Stefano Carpin
+
+Class Size:
+- About 19 to 330 students
+
+Student Review Themes:
+- CSE 015 can be challenging because it introduces proof-based and mathematical reasoning.
+- Students often say the professor and TA support matter a lot.
+- Homework and textbook practice are important.
+
+Representative Student Feedback:
+- One student described Angelo Kyrilov as caring, fair, clear, and funny.
+- One student said Dong Li had difficult-to-follow lectures and recommended studying the textbook independently.
+
+RAG Notes:
+CSE 015 is a key foundation for theoretical computer science. Students should expect math, logic, proofs, and regular practice.
+
+--------------------------------------------------
+
+CSE 030: Data Structures
+
+Course Description:
+Focuses on the design, analysis, and implementation of fundamental data structures, design patterns, and algorithms. Topics include linked lists, stacks, queues, trees, hash tables, graphs, recursion, searching, and sorting.
+
+Credits:
+- 4 units
+
+Recent Professors:
+- Giovanni Araujo
+- Rasul Kairgeldin
+- Kuat Gazizov
+- Sravan Jayati
+- Fang Chen
+- Angelo Kyrilov
+- Wesley Maia
+- Kuan-Chih Huang
+- Altynay Smagulova
+- Zhiyu An
+- Khine Mon
+- Dong Xu
+- Jieke Wang
+- Shijia Pan
+- Haide He
+- Shubham Rohal
+
+Class Size:
+- About 22 to 270 students
+
+Student Review Themes:
+- CSE 030 is an important course in the programming sequence.
+- Students often describe professor choice as important.
+- Practice quizzes, lectures, and exam preparation are commonly mentioned.
+
+Representative Student Feedback:
+- One student said they would take Angelo Kyrilov again because lectures were engaging and funny.
+- One student said Hyeran Jeon did well teaching CSE 030 and that practice quizzes and slides were important for exams.
+
+RAG Notes:
+CSE 030 is a major prerequisite for later CSE courses. It is one of the most important lower-division courses for students who want to succeed in algorithms and upper-division electives.
+
+--------------------------------------------------
+
+CSE 031: Computer Organization and Assembly Language
+
+Course Description:
+Introduces the underlying structure of machines, starting from C programming, pointers, data representation, MIPS instruction set, compilation process, and hardware implementation.
+
+Credits:
+- 4 units
+
+Recent Professors:
+- Santosh Chandrasekhar
+- Abylay Amanbayev
+- Dinghong Song
+- Angel Martinez-Sanchez
+- Yiping Li
+- Yu-Ju Tsai
+- Haobo Yuan
+- Arjun Kashyap
+- Jianbo Wu
+- Hamid Rajabi
+- Altynay Smagulova
+- Renato Farias
+- Jothi Sundaram
+- Wyssanie Chomsin
+- Xingjian Ding
+- Zhixun He
+
+Class Size:
+- About 20 to 210 students
+
+Student Review Themes:
+- CSE 031 can be difficult because it connects C programming, assembly, and machine-level concepts.
+- Some students say lectures can be hard to follow alone.
+- Projects are challenging but manageable with effort.
+- Office hours and participation can help.
+
+Representative Student Feedback:
+- One review of Santosh Chandrasekhar said lectures could be dull and midterms somewhat difficult.
+- One review of Chi Leung said he makes tough material understandable and that office hours are helpful.
+
+RAG Notes:
+CSE 031 is a major prerequisite for many upper-division CSE electives. Students should expect low-level programming, assembly concepts, and projects.
+
+--------------------------------------------------
+
+CSE 180: Introduction to Robotics
+
+Course Description:
+Covers the basics of robotics, focusing on the algorithmic side rather than technology. Topics include spatial modeling, planning, sensor processing, and simulation. The course has a strong hands-on component.
+
+Credits:
+- 4 units
+
+Recent Professors:
+- Stefano Carpin
+- Marcos Zuzuarregui
+- Hamid Rajabi
+- Carlos Alvarenga
+- Lorenzo Booth
+- Jose Rincon
+- Andres Garcia
+
+Class Size:
+- About 30 to 120 students
+
+Student Review Themes:
+- CSE 180 is generally described as interesting and worthwhile for students interested in robotics.
+- Exams are described as fair if students study.
+- The project is often described as interesting but may require more time.
+
+Representative Student Feedback:
+- One student said Stefano Carpin brought a mobile robot into class to demonstrate robotics concepts.
+- One student said the final project was cool but wished there had been more time.
+
+RAG Notes:
+CSE 180 is a strong elective for students interested in robotics, AI, simulation, and applied computing.
+
+--------------------------------------------------
+
+CSE 107: Introduction to Digital Image Processing
+
+Course Description:
+Overview of digital image processing, including visual perception, image formation, spatial transformations, image enhancement, color image processing, edge detection, image segmentation, and morphological image processing.
+
+Credits:
+- 4 units
+
+Recent Professors:
+- Shawn Newsam
+- Haolin Liang
+- Angel Martinez-Sanchez
+- Kuan-Chih Huang
+- Dong Lee
+- Yuxin Tian
+- Shrishail Baligar
+- Xueqing Deng
+- Nakul Agarwal
+- Yerlan Idelbayev
+
+Class Size:
+- About 28 to 120 students
+
+Student Review Themes:
+- CSE 107 is often described as interesting and not too difficult.
+- Students say the class is laid back if they pay attention and review lecture slides.
+- Some students mention low-energy lectures.
+
+Representative Student Feedback:
+- One student said Shawn Newsam’s class was interesting and easy if students pay attention or read the slides.
+- Another student said the course was easier than expected and mentally stimulating without being very hard.
+
+RAG Notes:
+CSE 107 may be a good elective for students interested in image processing and computer vision who want a manageable upper-division course.
+
+--------------------------------------------------
+
+CSE 188: Natural Language Processing
+
+Course Description:
+Explores computational approaches to analyzing and generating human language. Topics include sentiment analysis, named entity recognition, machine translation, and question-answering systems. Students implement NLP algorithms and work with frameworks like PyTorch.
+
+Recent Professors:
+- Hang Wu
+- Freeman Cheng
+- Yiwei Wang
+
+Recent Semester:
+- Spring 2026
+
+Class Size:
+- About 30 to 120 students
+
+Student Review Themes:
+- CSE 188 is a newer or less frequently offered course compared with other CSE electives.
+- It is relevant for students interested in NLP, machine learning, and large language models.
+
+RAG Notes:
+CSE 188 is useful for students interested in modern AI, text processing, and LLM-related topics.
+
+--------------------------------------------------
+
+CSE 111: Database Systems
+
+Course Description:
+Covers relational data models, high-level data modeling, SQL, active databases, constraints, triggers, query optimization, views, indexes, transactions, recovery, user-defined functions, and data warehousing.
+
+Credits:
+- 4 units
+
+Recent Professors:
+- Santosh Chandrasekhar
+- Tri Dang
+- Florin Rusu
+- Brian Tsan
+- Abylay Amanbayev
+- Yuning Chen
+- Chieh Lin
+- Asoke Datta
+- Yesdaulet Izenov
+- Rahul Hoskeri
+- Yujing Ma
+
+Class Size:
+- About 28 to 150 students
+
+Student Review Themes:
+- CSE 111 is useful for students interested in databases and SQL.
+- Some reviews describe the course as manageable.
+- Project and quiz scheduling can affect the experience.
+
+Representative Student Feedback:
+- One review said Santosh Chandrasekhar is caring and gives clear lectures with manageable homework.
+- One review said Florin Rusu’s course was fine overall but due dates could be clustered unevenly.
+
+RAG Notes:
+CSE 111 is a practical elective for students interested in databases, backend systems, and data management.
+
+--------------------------------------------------
+
+CSE 162: Mobile Computing
+
+Course Description:
+Introduces mobile cloud computing concepts, including mobile devices and applications, smartphone communication technologies, context-aware computing, and mobile device programming.
+
+Credits:
+- 4 units
+
+Recent Professors:
+- Hua Huang
+- Rahul Hoskeri
+- Yi Liu
+- Yangqing Sun
+- Hsin-Ping Huang
+
+Class Size:
+- About 30 to 120 students
+
+Student Review Themes:
+- CSE 162 receives mixed reviews.
+- Some students say it is easy to pass.
+- Some students criticize communication, pop quizzes, and lab structure.
+- Students report that the course may focus more on sensors and mobile computing concepts than full app development.
+
+Representative Student Feedback:
+- One review said exams were easy if students reviewed the slides, but communication about exam dates was poor.
+- One review criticized the course for relying on copy-paste lab code and not teaching enough practical app development.
+
+RAG Notes:
+CSE 162 may be manageable in difficulty but may not satisfy students expecting a full Android app development course.
+
+--------------------------------------------------
+
+CSE 160: Computer Networks
+
+Course Description:
+Covers computer network design concepts and implementation features, including robustness, scalability, addressing, routing, security, and contemporary networking protocols.
+
+Credits:
+- 4 units
+
+Attributes:
+- Intellectual Experience: Ethics
+- Intellectual Experience: Sustainability
+- Upper Division Crossroads GE
+
+Recent Professors:
+- Alberto Cerpa
+- Altynay Smagulova
+- Jothi Sundaram
+- Shubham Rohal
+- Shijia Pan
+- Hamid Rajabi
+- Yuke Li
+- Ashish Yadav
+- Rakesh Jasti
+- Wei-Chih Hung
+
+Class Size:
+- About 25 to 120 students
+
+Student Review Themes:
+- CSE 160 is frequently described as hard.
+- Projects are a major source of difficulty.
+- Some students report limited support on projects.
+- The course can be valuable because it also satisfies GE-related attributes.
+
+Representative Student Feedback:
+- One student said the curriculum felt outdated and centered around difficult NESC projects with limited help.
+- Another student simply described the course as hard.
+
+RAG Notes:
+CSE 160 is one of the more challenging electives mentioned in student feedback. It may be useful for students interested in networks, security, systems, or GE overlap, but students should expect demanding projects.
+
+--------------------------------------------------
+
+CSE 140: Computer Architecture
+
+Course Description:
+Covers digital computer design, instruction sets, memory systems, registers, logic and arithmetic units, modern CPUs, and architectural design choices.
+
+Credits:
+- 4 units
+
+Recent Professors:
+- Hyeran Jeon
+- Mao Lin
+- Utkarsh Mohan
+- Qizhong Wang
+- Abylay Amanbayev
+- Yuan Feng
+- Mujahid Rafi
+- Yuke Li
+- Abhilasha Dave
+- Rahul Hoskeri
+- Chi Leung
+- Chun-Han Yao
+- Jothi Sundaram
+- Rakesh Jasti
+- Nasit Sony
+- Taihong Xiao
+
+Class Size:
+- About 23 to 150 students
+
+Student Review Themes:
+- CSE 140 receives positive comments when taught by Hyeran Jeon.
+- Students say the course is not too difficult if they study.
+- Practice exams and clear lectures are helpful.
+
+Representative Student Feedback:
+- One student said Hyeran Jeon gives amazing lectures and connects class material to current technologies.
+- Another said she checks whether students are following along and gives practice exams before tests.
+
+RAG Notes:
+CSE 140 is a useful course for students interested in computer architecture, hardware, systems, and low-level computing.
+
+--------------------------------------------------
+
+CSE 185: Introduction to Computer Vision
+
+Course Description:
+Covers fundamental image processing and pattern recognition techniques, including image formation, edge detection, segmentation, optical flow, 3D structure, shape representation, and object recognition.
+
+Credits:
+- 4 units
+
+Recent Professors:
+- Ross Greer
+- Tiancheng Shen
+- Hsin-Ying Lee
+- Freeman Cheng
+- Ming-Hsuan Yang
+- Meng Tang
+- Kuan-Chih Huang
+- Fang Chen
+- Weijie Lyu
+
+Class Size:
+- About 25 to 120 students
+
+Student Review Themes:
+- CSE 185 is often reviewed positively.
+- Students describe the material as interesting and connected to computer vision.
+- Professor choice strongly influences the experience.
+
+Representative Student Feedback:
+- One review said Ming-Hsuan Yang is passionate, reviews previous material, and explains important topics more than once.
+- One review said Ross Greer is engaging and helps students understand the material.
+
+RAG Notes:
+CSE 185 is a strong elective for students interested in computer vision, image processing, machine learning, and applied AI.

@@ -1,0 +1,49 @@
+Title: CSE Majors: What CSE electives are the hardest and easiest?
+
+Source Type: Reddit Discussion
+
+URL: https://www.reddit.com/r/ucmerced/comments/1nu6w64/comment/ngzspcp/
+
+Document Category: Student Course Opinions
+
+Original Question:
+
+A student asked which CSE electives at UC Merced are considered the easiest and hardest.
+
+The student believed:
+- Easier electives: CSE 108 Web development full Stack, CSE 107 Introduction to Digital Image Processing , CSE 111 Database Systems
+- Harder electives: CSE 160 Computer Networks
+
+Student Responses:
+
+User: dantheman898
+
+Courses Discussed:
+
+CSE 160 Computer Networks
+- Considered difficult primarily because of the projects.
+- Homework and readings are manageable.
+- Projects require substantial independent learning.
+- Students must understand the implementation environment on their own.
+
+CSE 176 Introduction to Machine Learning
+- Considered challenging because it is math-heavy.
+- Focuses more on conceptual understanding than coding.
+- Taught by Miguel Carreira-Perpiñán.
+- Instructor is knowledgeable and appears to care about students.
+
+CSE 108 Web Development
+- Considered manageable overall.
+- Learning JavaScript, HTML, and CSS from scratch can be tedious for students without prior experience.
+- Taught by Ammon Hepworth.
+
+Additional Discussion:
+
+Question:
+Does CSE 108 count toward the technical elective requirement?
+
+No answer was provided in the thread. Answer received one thumbs up meaning that it counts toward technical electives
+
+
+
+

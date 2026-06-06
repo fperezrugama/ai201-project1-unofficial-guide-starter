@@ -1,0 +1,171 @@
+Title: Rate My Professor - Angelo Kyrilov
+
+Source Type: Student Reviews
+
+URL: https://www.ratemyprofessors.com/professor/2287924
+
+Document Category: Professor Reviews and Course Experiences
+
+Professor Information
+
+Name: Angelo Kyrilov
+
+Department:
+- Computer Science and Engineering
+
+Courses Commonly Reviewed:
+- CSE 022 Introduction to Programming
+- CSE 024 Advanced Programming
+- CSE 030 Data Structures
+- CSE 015 Discrete Mathematics
+- CSE 165 Introduction to Object-Oriented Programming
+- CSE 195 Undergraduate Research
+
+Overall Rating Summary
+
+Overall Quality:
+3.8 / 5
+
+Would Take Again:
+77%
+
+Difficulty:
+2.9 / 5
+
+Common Positive Themes
+- Many students describe him as caring, funny, approachable, and respected.
+- Students often say he explains programming concepts clearly.
+- Several reviews say he is flexible, understanding, and willing to help students.
+- Some students mention useful study guides, recorded lectures, and helpful support resources.
+- Students often recommend attending lectures, using office hours, and asking for help.
+
+Common Negative Themes
+- Some students say the courses can be disorganized.
+- Late grading and slow email responses are recurring complaints.
+- Several students mention that exams or finals are weighted heavily.
+- Steamplug, the coding platform used in some courses, receives many complaints for being unstable or difficult to use.
+- Students without prior programming experience may find the pace challenging.
+
+Course-Specific Feedback
+
+----------------------------------
+
+CSE 022: Introduction to Programming
+
+Frequently Mentioned Strengths:
+- Often considered manageable, especially for students who keep up with labs and lectures.
+- Students describe the professor as helpful, funny, and accessible.
+- Lectures and explanations are often described positively.
+- Some students say the course is a good starting point for learning programming.
+
+Frequently Mentioned Challenges:
+- Exams can make up a large part of the grade.
+- Labs and assignments can be strict about formatting.
+- Students without prior coding experience may need extra practice.
+- Some reviews mention limited feedback or delayed grading.
+
+Student Advice:
+- Attend lectures or watch recordings.
+- Do all labs and assignments.
+- Study seriously for the midterm and final.
+- Use tutoring, office hours, and outside practice if new to programming.
+
+----------------------------------
+
+CSE 024: Advanced Programming
+
+Frequently Mentioned Strengths:
+- Some students say he teaches C++ well.
+- Students who took AP Computer Science or already know programming often find the course manageable.
+- Some reviews mention helpful recorded lectures and accessible support.
+
+Frequently Mentioned Challenges:
+- Steamplug is frequently criticized as buggy, unstable, and frustrating.
+- Some students say the course structure can be disorganized.
+- Projects and labs may be difficult or unclear.
+- Email responsiveness is inconsistent.
+
+Student Advice:
+- Expect to learn C++ and use Steamplug.
+- Start assignments early because technical issues can waste time.
+- Ask for help in person or during office hours rather than relying only on email.
+- Prior programming experience makes the class much easier.
+
+----------------------------------
+
+CSE 030: Data Structures
+
+Frequently Mentioned Strengths:
+- Many students describe him as a good professor for Data Structures.
+- Students say he cares about the class and adjusts when many students struggle.
+- Some reviews mention fair grading and helpful study guides.
+- Projects and labs are usually considered manageable.
+
+Frequently Mentioned Challenges:
+- Exams and finals can be difficult and heavily weighted.
+- Some reviews mention disorganization and late grading.
+- Some students felt that not all data structures topics were covered deeply.
+
+Student Advice:
+- Take the midterms and final seriously.
+- Use study guides when provided.
+- Keep up with labs and projects.
+- Speak with the professor directly if there are grading or assignment concerns.
+
+----------------------------------
+
+CSE 165: Introduction to Object-Oriented Programming
+
+Frequently Mentioned Strengths:
+- Some older reviews describe CSE 165 with Angelo Kyrilov as useful for learning actual programming and development.
+- Labs involved creating web applications and connecting front-end and back-end programming.
+- Several students described him as clear, chill, and willing to listen to feedback.
+
+Frequently Mentioned Challenges:
+- Late grade posting and late lab releases were mentioned.
+- Some students found the course organization frustrating.
+
+Student Advice:
+- This course may be useful for students who want more hands-on programming experience.
+- Students should expect project-based or lab-based work.
+
+----------------------------------
+
+CSE 015: Discrete Mathematics
+
+Frequently Mentioned Strengths:
+- Some students describe him as understanding and caring.
+- TA support can make a big difference.
+
+Frequently Mentioned Challenges:
+- Lectures may feel boring or hard to follow for some students.
+- Students should not rely only on lecture if they struggle with discrete math.
+
+----------------------------------
+
+Research / CSE 195
+
+Student Feedback:
+- One review described Angelo Kyrilov as an important mentor and research advisor.
+- The student said he cared deeply about student success and gave useful feedback.
+
+Recurring Themes Across All Courses
+
+Teaching Style:
+- Generally viewed as clear, funny, and engaging by many students.
+- Some students find lectures dry or fast-paced.
+- Many students say he is better when students actively attend, ask questions, and use support resources.
+
+Grading:
+- Exams can be heavily weighted.
+- Some grading is described as fair, but late grading is a frequent complaint.
+- Curves, retakes, or adjustments may happen when the class struggles.
+
+Course Organization:
+- Organization varies by semester.
+- Steamplug-related issues are a major concern in CSE 022 and CSE 024.
+- Email responsiveness can be inconsistent.
+
+Overall Student Consensus
+
+Students generally view Angelo Kyrilov as one of the stronger lower-division CSE instructors at UC Merced, especially for CSE 022, CSE 024, and CSE 030. Many students describe him as caring, funny, approachable, and knowledgeable. However, recurring concerns include disorganization, late grading, heavy exam weighting, and technical issues with Steamplug. Students with prior programming experience may find his courses easier, while beginners should keep up with labs, attend lectures, and use office hours or tutoring support.

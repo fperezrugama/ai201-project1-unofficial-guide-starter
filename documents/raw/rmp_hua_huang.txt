@@ -1,0 +1,134 @@
+Title: Rate My Professor - Hua Huang
+
+Source Type: Student Reviews
+
+URL: https://www.ratemyprofessors.com/professor/2778518
+
+Document Category: Professor Reviews and Course Experiences
+
+Professor Information
+
+Name: Hua Huang
+
+Department:
+
+Computer Science and Engineering
+
+Courses Commonly Reviewed:
+
+CSE 100 Algorithm Design and Analysis
+CSE 162 Mobile Computing
+
+Overall Rating Summary
+
+Overall Quality:
+
+2.1 / 5
+
+Would Take Again:
+
+29%
+
+Difficulty:
+
+2.9 / 5
+
+--------------------------------
+
+Common Positive Themes
+
+Considered knowledgeable about course material.
+Frequently pauses to answer student questions during lectures.
+Generally viewed as approachable and helpful after class.
+Offers extra credit opportunities.
+CSE 162 is often considered manageable for students who attend lectures and complete labs.
+
+--------------------------------
+
+Common Negative Themes
+
+Lectures are frequently described as slide-based and lecture-heavy.
+Communication issues are mentioned in several reviews.
+Students report unclear exam schedules and course expectations.
+Pop quizzes are common in CSE 162.
+Some students feel the course emphasizes memorization over practical application.
+Several students report that labs involve following provided examples rather than building independent projects.
+
+--------------------------------
+
+Course-Specific Feedback
+
+CSE 100: Algorithm Design and Analysis
+
+Frequently Mentioned Strengths
+
+Knowledgeable about algorithms and course material.
+Willing to answer questions.
+Accessible outside of class.
+
+Frequently Mentioned Challenges
+
+Exams make up a large percentage of the final grade.
+Tests are considered difficult.
+Lectures can sometimes feel confusing or difficult to follow.
+Teaching style is often described as traditional and lecture-focused.
+
+Representative Student Opinions
+
+Students generally consider the course difficult.
+Understanding lectures and preparing for exams often requires additional self-study.
+Reviews suggest that success depends heavily on exam performance.
+
+--------------------------------
+
+CSE 162: Mobile Computing
+
+Frequently Mentioned Strengths
+
+Generally considered easier than many upper-division CSE courses.
+Extra credit opportunities are available.
+Labs are usually manageable.
+Basic Java knowledge is helpful before taking the course.
+
+Frequently Mentioned Challenges
+
+Frequent pop quizzes.
+Students report inconsistent communication about exam dates.
+Some students feel the course focuses heavily on sensors and mobile hardware concepts.
+Several reviews mention limited emphasis on building complete mobile applications.
+Labs are sometimes described as guided exercises rather than independent development work.
+
+Representative Student Opinions
+
+Students often report earning good grades in the course.
+Learning outcomes receive mixed reviews.
+Some students felt the class was easy to pass but did not provide enough hands-on mobile development experience.
+
+--------------------------------
+
+Recurring Themes Across All Courses
+
+Teaching Style
+
+Lecture-heavy format.
+Frequent use of slides.
+Questions are usually welcomed during or after class.
+
+Assessment Style
+
+Exams and quizzes are important components of grading.
+Pop quizzes are common in CSE 162.
+Extra credit opportunities are available in some semesters.
+
+Course Difficulty
+
+CSE 100 is viewed as significantly more difficult than CSE 162.
+CSE 162 is generally considered manageable but may not meet all students' expectations regarding mobile application development.
+
+Overall Student Consensus
+
+Students generally view Professor Hua Huang as knowledgeable and approachable. However, reviews frequently mention lecture-heavy instruction, communication challenges, pop quizzes, and concerns about practical learning experiences. Opinions are mixed, with some students appreciating the professor's expertise and willingness to help, while others feel the courses rely too heavily on slides and self-study.
+
+
+
+

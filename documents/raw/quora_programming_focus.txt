@@ -1,0 +1,100 @@
+Title: Does the UC Merced CSE Major Focus on Programming?
+
+Source Type: Quora Discussion
+
+URL: https://www.quora.com/Does-the-major-of-computer-science-and-engineering-have-a-focus-on-programming-at-all-I-am-interested-in-programming-and-want-to-go-to-UC-Merced
+
+Document Category: Program Structure and Programming Focus
+
+Original Question:
+
+A prospective student interested in programming asked whether the Computer Science and Engineering (CSE) major at UC Merced has a strong focus on programming.
+
+Responses:
+
+Contributor: Sahil Hingorani
+Background:
+
+B.S. in Computer Science, UC Santa Barbara
+
+Opinion:
+
+The CSE major has a strong focus on programming.
+The curriculum emphasizes programming more than hardware.
+The first two years typically focus on foundational programming courses and general education requirements.
+The final two years allow students to specialize through upper-division courses related to their interests.
+
+Advice:
+
+Coursework provides exposure to programming concepts and tools.
+Students should build personal projects outside of class to strengthen their programming skills.
+Independent practice is important for developing software engineering abilities.
+
+Key Takeaway:
+
+Programming is a central component of the CSE major, but personal projects and self-learning are important for skill development.
+
+Contributor: Mannu Malhotra
+Background:
+
+M.S. in Computer Science, National University of Singapore
+
+Opinion:
+
+Many computer science courses are programming-focused.
+Assignments often require students to write and test code.
+Students may use C or other programming languages depending on the course.
+
+Additional Perspective:
+
+Computer science also includes theoretical subjects.
+The balance between programming and theory depends on the courses students choose.
+
+Key Takeaway:
+
+The major contains both practical programming and theoretical computer science.
+
+Contributor: Justin Rising
+Background:
+
+Software Engineer and Programmer
+
+Opinion:
+
+Students can expect a significant amount of programming throughout the degree.
+Introductory and lower-division computer science courses are usually the most programming-intensive.
+Upper-division courses often become more theoretical and mathematical.
+
+Additional Perspective:
+
+Some advanced courses use smaller programming assignments to explore specialized topics.
+Programming skills improve substantially through repeated practice and coursework.
+
+Key Takeaway:
+
+Early coursework focuses heavily on coding, while later coursework balances theory, mathematics, and specialized applications.
+
+Key Themes Across the Discussion
+
+Programming Focus:
+
+The CSE major has a strong programming component.
+Programming courses form a significant part of the lower-division curriculum.
+Students gain experience through coding assignments and projects.
+
+Theory vs. Programming:
+
+Computer science is not exclusively programming.
+Upper-division courses often include mathematical, theoretical, and analytical topics.
+Students can choose electives that align with their interests.
+
+Advice for Prospective Students:
+
+Build personal projects outside of class.
+Practice programming regularly.
+Review course descriptions before selecting electives.
+Take advantage of programming-focused upper-division courses.
+
+Overall Consensus:
+
+The UC Merced Computer Science and Engineering major is strongly programming-focused, especially during the lower-division sequence. However, students should expect a combination of programming, mathematics, algorithms, systems, and theoretical computer science as they progress through the degree.

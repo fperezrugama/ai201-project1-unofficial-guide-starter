@@ -1,0 +1,131 @@
+Title: Rate My Professor - Stefano Carpin
+
+Source Type: Student Reviews
+
+URL: https://www.ratemyprofessors.com/professor/2613245
+
+Document Category: Professor Reviews and Course Experiences
+
+Professor Information
+
+Name: Stefano Carpin
+
+Department:
+- Computer Science and Engineering
+
+Courses Commonly Reviewed:
+- CSE 015 Discrete Mathematics
+- CSE 180 Introduction to Robotics
+
+Overall Rating Summary
+
+Overall Quality:
+- 4.1 / 5
+
+Would Take Again:
+- 73%
+
+Difficulty:
+- 3.5 / 5
+
+Course-Specific Feedback
+
+----------------------------------
+
+CSE 180: Introduction to Robotics
+
+Student Experience:
+Students generally describe CSE 180 with Stefano Carpin as an interesting and worthwhile robotics course. Several students mention that the lectures are engaging and that they learned a lot about robotics. One review specifically mentions that he brought a mobile robot into the classroom to demonstrate how it works, which made the course feel more applied and memorable.
+
+Course Materials:
+- The textbook is written by the professor and available online for free.
+- Exams are mostly conceptual rather than coding-heavy.
+- Exams are described as similar in style to homework and practice exams.
+- Students may be allowed to use a double-sided cheat sheet.
+
+Assignments and Projects:
+- The course includes a final project.
+- Some students found the project interesting and enjoyable.
+- A common criticism is that students wanted more time to complete the final project.
+- ROS is mentioned as difficult, even when the rest of the class feels straightforward.
+
+Positive Themes:
+- Engaging lectures.
+- Strong robotics knowledge.
+- Fair exams when students study the material.
+- Interesting demonstrations and projects.
+- Accessible outside class according to some students.
+
+Concerns:
+- Some assignments and exam expectations may feel vague.
+- One review says communication about expectations and study topics was unclear.
+- One student felt the instructor could become frustrated when students asked repeated or clarifying questions.
+
+Student Advice:
+- Study the homework and practice exam format.
+- Expect conceptual robotics questions rather than heavy coding exams.
+- Start the final project early.
+- Be prepared for ROS to be one of the harder parts of the class.
+
+----------------------------------
+
+CSE 015: Discrete Mathematics
+
+Student Experience:
+Students generally describe CSE 015 with Stefano Carpin as difficult but fair. Many reviews say his lectures are content-heavy and fast-paced, but students also say he answers questions and helps students who ask for clarification. Several students describe him as respected, precise, funny, and knowledgeable.
+
+Teaching Style:
+- Lectures are detailed, concise, and content-heavy.
+- Students say the course can move quickly.
+- He often answers questions and gives examples when students ask.
+- Some students describe his explanations as better than the textbook.
+- A recurring minor complaint is that his handwriting can be difficult to read.
+
+Assignments and Exams:
+- Homework is important for exam preparation.
+- Textbook problems and homework are often similar to exam problems.
+- Exams are usually described as fair.
+- The course can be difficult for students who fall behind.
+
+Positive Themes:
+- Fair and reasonable professor.
+- Strong explanations of discrete math concepts.
+- Willing to answer questions.
+- Homework prepares students for exams.
+- Students who keep up with lectures and assignments tend to do well.
+
+Concerns:
+- Fast-paced lectures.
+- Difficult homework.
+- Heavy lecture content.
+- Some students found lectures hard to follow or boring.
+- TA grading may make homework feedback less clear.
+
+Student Advice:
+- Do the homework and textbook problems.
+- Attend lecture, especially if discrete math is new to you.
+- Ask questions when confused.
+- Do not fall behind because the class moves quickly.
+- Be prepared for challenging but fair material.
+
+----------------------------------
+
+Recurring Themes Across All Courses
+
+Strengths:
+- Strong subject knowledge.
+- Engaging and precise teaching style.
+- Fair exams when students prepare.
+- Willingness to answer questions.
+- Robotics course feels applied and memorable.
+
+Challenges:
+- Courses can be conceptually difficult.
+- Lectures may move quickly.
+- Homework and projects require consistent effort.
+- Some students mention unclear communication in CSE 180.
+- Handwriting can be difficult to read in CSE 015.
+
+Overall Student Consensus
+
+Students generally view Stefano Carpin as a strong and respected professor, especially for CSE 015 Discrete Mathematics and CSE 180 Introduction to Robotics. His courses are not always easy, but many students describe them as fair and rewarding. Students who attend lectures, complete homework, ask questions, and prepare from practice materials tend to have a positive experience. CSE 180 is especially valuable for students interested in robotics, while CSE 015 is useful but requires consistent effort and careful studying.

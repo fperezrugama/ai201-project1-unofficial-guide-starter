@@ -1,0 +1,141 @@
+Title: UC Merced CSE Program Map (Catalog Year 2021-2022)
+
+Source Type: Program Map PDF
+
+URL: https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/cse_flow_21_22_final_0.pdf
+
+Document Category: Course Sequencing and Advising
+
+Content:
+
+OVERVIEW
+This program map is an unofficial advising document for the UC Merced Computer Science and Engineering major. It is intended for course planning only and does not replace the official UC Merced Catalog or advisor approval.
+
+IMPORTANT PREREQUISITE NOTE
+CSE 100, MATH 024, MATH 032 and CSE 031 are prerequisites for most upper-division CSE courses. Some CSE courses may have additional requirements, so students should check the schedule of courses.
+
+FIRST YEAR
+- MATH 021: Calculus I for Physical Sciences and Engineering
+- MATH 022: Calculus II for Physical Sciences and Engineering
+- WRI 010: College Writing and Composition
+- CSE 022: Introduction to Programming
+- CSE 024: Advanced Programming
+- SPRK 001: Spark Seminar
+- CSE 015: Discrete Mathematics
+- Social Science GE
+
+SECOND YEAR
+Semester 3:
+- MATH 023: Vector Calculus
+- MATH 032: Probability and Statistics
+- CSE 030: Data Structures
+- ENGR 191: Professional Seminar
+- Bio/ESS Requirement
+
+Semester 4:
+- MATH 024: Linear Algebra and Differential Equations
+- CSE 100: Algorithm Design and Analysis
+- CSE 031: Computer Organization and Assembly Language
+- Arts and Humanities GE
+
+THIRD YEAR
+Semester 5:
+- PHYS 008 and PHYS 008L: Introductory Physics I for Physical Sciences
+- CSE Technical Elective
+- Social Science, Arts, or Humanities GE
+- CSE Technical Elective
+
+Semester 6:
+- PHYS 009 and PHYS 009L: Introductory Physics II for Physical Sciences
+- CSE Technical Elective
+- Writing in the Discipline
+- CSE Technical Elective
+
+FOURTH YEAR
+Semester 7:
+- ENGR 065: Circuit Theory
+- CSE Technical Elective
+- CSE Technical Elective
+- Free Elective with GE Badge
+
+Semester 8:
+- CSE 120: Software Engineering
+- CSE Technical Elective
+- CSE Technical Elective
+- Free Elective with GE Badge
+
+TECHNICAL ELECTIVE REQUIREMENT
+CSE technical electives require 30 total units.
+- 20 units must be CSE upper-division courses.
+- 10 units may come from an approved list of courses.
+- Courses do not double count.
+
+BIO/ESS REQUIREMENT
+Students choose one Bio/ESS course. Options listed on the map include:
+- BIO 043
+- BIO 003
+- BIO 005
+- BIO 047
+- ESS 001
+- ESS 005
+
+The map recommends BIO 043 because it may help with Global Awareness and Sustainability badges.
+
+GENERAL EDUCATION NOTES
+Writing in the Discipline:
+- The map recommends CSE 155, WRI 100, or ENGR 156.
+
+AREA B: Social Science, Arts, and Humanities:
+Students must take three courses in Social Science, Arts, and Humanities.
+- At least one course must be from Social Science.
+- At least one course must be from Arts and Humanities.
+- Students should try to overlap these courses with Intellectual Experience badges.
+
+INTELLECTUAL EXPERIENCE BADGES
+One course can satisfy a maximum of two badges.
+
+Suggested strategy:
+- Scientific Method: completed with major requirements.
+- Quantitative and Numerical Analysis: completed with major requirements.
+- Ethics: completed with major requirements.
+- Media and Visual Analysis: take CSE 160 as a technical elective.
+- Global Awareness: take BIO 043.
+- Sustainability: take BIO 043.
+- Literary and Textual Analysis: take one class that overlaps with SSHA GE.
+- Societies and Cultures of the Past: take one class that overlaps with SSHA GE.
+- Diversity and Identity: take one class that overlaps with SSHA GE.
+
+SUGGESTED COURSES TO OVERLAP GE AND BADGES
+Social Science:
+- Take any approved Social Science course found on the official audit or catalog.
+
+Arts and Humanities:
+- CCST 060
+- COGS 005
+- CRES 076A
+- ENG 032
+- GASP 006
+- GASP 031C
+- GASP 041A
+- GASP 055B
+- GASP 060
+- GASP 076A
+- HIST 055
+- SPAN 050
+- SPAN 060
+
+Social Science, Arts, and Humanities:
+- CRES 001
+- CRES 020
+- CRES 027
+- CRES 072B
+- ENG 019
+- ENG 020
+- GASP 070A
+- GASP 070B
+- GASP 070C
+- GASP 072B
+- HIST 051
+- PHIL 002
+
+Students should always check their official audit because course availability and requirements may change.

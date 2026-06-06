@@ -1,0 +1,91 @@
+Title: How is the Computer Science and Engineering Program at UC Merced?
+
+Source Type: Reddit Discussion
+
+URL: https://www.reddit.com/r/ucmerced/comments/1i1njqh/how_is_the_computer_science_and_engineering/
+
+Document Category: Student Experiences and Program Opinions
+
+Original Question:
+
+A prospective student admitted to UC Merced asked about the quality of the Computer Science and Engineering (CSE) program and wanted to know what current students thought about it.
+
+Student Responses:
+
+User: whoisair
+
+Overall Opinion:
+
+The CSE program is considered acceptable but has strengths and weaknesses.
+
+Comments on Coursework:
+
+Lower-division courses may feel like review for students who previously completed AP Computer Science A or similar coursework.
+Students with AP Computer Science A credit may be able to skip CSE 022 and start with CSE 024.
+
+Comments on Enrollment:
+
+The CSE major is very popular.
+Students may have difficulty enrolling in required mathematics or CSE courses because of demand.
+
+Comments on Career Opportunities:
+
+Career fairs do not always offer many computer science internship opportunities.
+Students may need to seek internships and networking opportunities independently.
+
+Comments on Research:
+
+UC Merced offers many undergraduate research opportunities for CSE students.
+
+Advice for New Students:
+
+Use free time to build projects, improve resumes, practice technical interview skills, and participate in CS clubs.
+Attend hackathons and technology events.
+Participate in HackMerced and other campus opportunities.
+
+Additional Student Opinion:
+
+User: retrnIwil2OldBrazil
+
+Opinion:
+
+The program is challenging and academically demanding.
+
+Additional Student Opinion:
+
+User: cen_ca_army_cc
+
+Opinion:
+
+The computer science job market appears increasingly competitive and saturated.
+Students should consider long-term career planning and market conditions.
+
+Additional Student Opinion:
+
+User: Abombies
+
+Opinion:
+
+Described the program as difficult and impacted.
+Reported dissatisfaction with class quality and the learning environment.
+Felt that enrollment growth negatively affected the educational experience.
+Later transferred to Humboldt State University and reported a more positive academic experience there.
+Advises students to consider multiple universities and learning environments before making a final decision.
+
+Key Themes Mentioned Across the Discussion:
+
+Positive:
+
+Undergraduate research opportunities
+Active student community
+HackMerced and hackathon opportunities
+Ability to start at a higher programming course level with AP credit
+
+Challenges:
+
+Large number of CSE majors
+Difficulty registering for some required courses
+Competitive computer science job market
+Mixed opinions regarding instructional quality
+Program can be academically challenging
+

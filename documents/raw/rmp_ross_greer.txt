@@ -1,0 +1,173 @@
+Title: Rate My Professor - Ross Greer
+
+Source Type: Student Reviews
+
+URL: https://www.ratemyprofessors.com/professor/3105710
+
+Document Category: Professor Reviews and Course Experiences
+
+Professor Information
+
+Name: Ross Greer
+
+Department:
+- Computer Science and Engineering
+
+Research Areas:
+- Computer Vision
+- Machine Learning
+- Human-Robot Interaction
+- Autonomous Driving
+- Multimodal Machine Learning
+
+Courses Commonly Reviewed:
+- CSE 185 Introduction to Computer Vision
+- CSE 100 Algorithm Design and Analysis
+
+Overall Rating Summary
+
+Overall Quality:
+- 5.0 / 5
+
+Would Take Again:
+- 89%
+
+Difficulty:
+- 3.8 / 5
+
+--------------------------------------------------
+
+CSE 185: Introduction to Computer Vision
+
+General Student Consensus:
+
+Students consistently describe CSE 185 as one of the most enjoyable and engaging upper-division CSE electives at UC Merced. While the material is mathematically and conceptually challenging, students frequently mention that Professor Greer's teaching style makes difficult topics easier to understand.
+
+Many students describe this course as one of their favorite classes in the major.
+
+What Students Liked:
+
+- Enthusiastic and energetic lectures.
+- Real-world examples connecting computer vision concepts to practical applications.
+- Strong explanations of algorithms and theory.
+- Encourages questions during lecture and spends time clarifying concepts.
+- Assignments reinforce understanding of the material instead of feeling like busy work.
+- Focuses on learning and understanding rather than simply earning points.
+- Creates an engaging classroom environment.
+
+Representative Student Feedback:
+
+"Ross was very engaging with the class, and this created a learning environment that was fun to go to."
+
+"He clearly is very knowledgeable in this subject and has a passion for it."
+
+"Professor Greer did a good job explaining difficult topics and would explain concepts in depth when needed."
+
+"I learned a lot from the assignments and coursework."
+
+"One of my favorite courses taken at UC Merced."
+
+Course Structure Mentioned By Students:
+
+- Four midterm quizzes worth approximately 10% each.
+- Final exam worth approximately 30%.
+- Participation opportunities and extra credit.
+- Lecture-focused course with significant conceptual content.
+- Assignments designed to apply computer vision algorithms and theory.
+
+Common Challenges:
+
+- Material can be mathematically difficult.
+- Concepts become increasingly advanced throughout the semester.
+- Students report needing to actively engage with lectures.
+- Coursework can be challenging even when the professor explains concepts well.
+
+Student Advice:
+
+- Attend lectures regularly.
+- Take advantage of participation opportunities.
+- Focus on understanding concepts instead of memorization.
+- Expect challenging material but strong support from the professor.
+
+--------------------------------------------------
+
+CSE 100: Algorithm Design and Analysis
+
+General Student Consensus:
+
+Although fewer reviews are available for CSE 100, students generally describe Professor Greer as a caring and engaging instructor who prepares students well for exams. Students appreciate his enthusiasm and teaching style, but some mention concerns about communication and responsiveness.
+
+What Students Liked:
+
+- Engaging lectures.
+- Cares about student success.
+- Provides preparation for exams.
+- Makes difficult algorithm topics more approachable.
+- Creates a positive classroom environment.
+
+Representative Student Feedback:
+
+"He prepares you well for the midterms."
+
+"He obviously cares deeply about his students and his work."
+
+"Good lecturer and engaging instructor."
+
+Common Concerns:
+
+- Some students wanted clearer communication regarding course decisions.
+- A few students wished for more detailed feedback on assignments.
+- Some students felt email or message responses could be faster.
+- A small number of students mentioned wanting more empathy or transparency when explaining grading decisions.
+
+Student Advice:
+
+- Pay attention during lectures.
+- Study consistently for midterms and finals.
+- Ask questions when concepts become confusing.
+- Take advantage of office hours when available.
+
+--------------------------------------------------
+
+Recurring Themes Across Reviews
+
+Teaching Style:
+
+Students consistently describe Ross Greer as:
+
+- Enthusiastic
+- Engaging
+- Knowledgeable
+- Passionate about teaching
+- Supportive of student learning
+
+A common theme is that he actively tries to make difficult concepts understandable through examples and discussion.
+
+Course Design:
+
+Students frequently mention that:
+
+- Assignments reinforce learning.
+- Lectures are interactive.
+- Learning is prioritized over grades.
+- Coursework is challenging but meaningful.
+
+Communication:
+
+Positive Feedback:
+- Open to student questions.
+- Friendly and approachable during class.
+- Interested in helping students learn.
+
+Areas for Improvement Mentioned:
+- Faster responses to messages.
+- More detailed assignment feedback.
+- Clearer explanations of certain course decisions.
+
+--------------------------------------------------
+
+Overall Student Consensus
+
+Ross Greer is one of the highest-rated CSE professors represented in these reviews. Students consistently praise his enthusiasm, teaching ability, and commitment to helping students understand difficult concepts. CSE 185 (Computer Vision) receives especially strong praise and is frequently described as one of the most rewarding upper-division electives in the major.
+
+Students generally recommend taking courses with Professor Greer, especially if interested in computer vision, machine learning, artificial intelligence, or applied computer science topics. While the courses can be challenging, students overwhelmingly report that the learning experience is worthwhile and that the professor genuinely cares about student growth and understanding.

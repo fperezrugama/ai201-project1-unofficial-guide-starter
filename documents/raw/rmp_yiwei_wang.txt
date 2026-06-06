@@ -1,0 +1,164 @@
+Title: Rate My Professor - Yiwei Wang
+
+Source Type: Student Reviews
+
+URL: https://www.ratemyprofessors.com/professor/3163467
+
+Document Category: Professor Reviews and Course Experiences
+
+Professor Information
+
+Name: Yiwei Wang
+
+Department:
+- Computer Science and Engineering
+
+Common Course Reviewed:
+- CSE 188 Natural Language Processing
+
+Research Areas:
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Graph Machine Learning
+- Social Media Analysis
+
+--------------------------------------------------
+
+Review Statistics
+
+Overall Quality:
+- 1.0 / 5
+
+Would Take Again:
+- 25%
+
+Difficulty:
+- 2.7 / 5
+
+Number of Reviews Available:
+- 4 reviews (Spring 2026)
+
+Note:
+Because the number of available reviews is very small, student opinions should be interpreted cautiously and may not fully represent the overall teaching quality of the course or instructor.
+
+--------------------------------------------------
+
+CSE 188: Natural Language Processing
+
+General Course Description
+
+CSE 188 introduces students to topics in:
+
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Language understanding
+- Machine learning methods for text
+- Modern AI applications involving language
+
+The course is one of the few upper-division electives at UC Merced focused specifically on NLP and modern language AI systems.
+
+--------------------------------------------------
+
+Positive Student Feedback
+
+Some students reported positive learning outcomes from the course.
+
+Representative Feedback:
+
+"Great class overall and learned a lot from it."
+
+Students who enjoyed the course described it as:
+
+- Educational
+- Interesting
+- Relevant to modern AI topics
+- Helpful for understanding NLP concepts
+
+One reviewer described the course as:
+
+- Inspirational
+- Research-oriented
+- Focused on reading and academic papers
+
+--------------------------------------------------
+
+Common Student Criticisms
+
+Several students expressed dissatisfaction with the course structure and delivery.
+
+Recurring concerns include:
+
+- Limited engagement during lectures.
+- Perception that lectures relied heavily on prepared online materials.
+- Feeling that course content was not explained in sufficient depth.
+- Difficulty connecting lectures with meaningful learning outcomes.
+
+Representative Feedback:
+
+"I cannot say that I learned anything in this class."
+
+"Don't do it."
+
+One student specifically criticized the course for relying heavily on AI-generated instructional materials and felt that lecture delivery lacked originality and depth.
+
+--------------------------------------------------
+
+Course Structure Themes Mentioned By Students
+
+Students commonly mention:
+
+- Lecture-based format.
+- Significant reading component.
+- Limited number of graded components.
+- Grading concentrated on relatively few assignments.
+
+Review tags include:
+
+- So many papers.
+- Graded by few things.
+
+--------------------------------------------------
+
+Potential Strengths
+
+Based on available reviews:
+
+- Exposure to modern NLP and LLM topics.
+- Opportunity to learn about current AI research areas.
+- Research-oriented course content.
+- Relevant elective for students interested in AI and machine learning.
+
+--------------------------------------------------
+
+Potential Challenges
+
+Based on available reviews:
+
+- Some students felt lectures lacked engagement.
+- Some students reported limited learning despite completing the course.
+- Course organization and delivery style may not fit all learning preferences.
+- Student satisfaction appears mixed based on the small number of available reviews.
+
+--------------------------------------------------
+
+Advice From Former Students
+
+Students interested in taking CSE 188 may benefit from:
+
+- Having prior machine learning knowledge.
+- Reading research papers independently.
+- Supplementing lectures with outside resources.
+- Treating the course as a research-oriented AI elective.
+
+--------------------------------------------------
+
+Overall Student Consensus
+
+The currently available reviews for CSE 188 present mixed feedback.
+
+Positive reviews indicate that students can learn valuable Natural Language Processing concepts and gain exposure to modern AI topics such as Large Language Models.
+
+However, multiple reviews criticize the lecture delivery and overall course structure, with some students reporting that they learned very little from the course.
+
+Because only a small number of reviews are currently available, students should consider these comments as limited anecdotal feedback rather than a definitive assessment of the instructor or course.
+

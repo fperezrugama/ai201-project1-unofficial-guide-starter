@@ -1,0 +1,235 @@
+Title: UC Merced Computer Science and Engineering Four-Year Course Plan (2023-2024)
+
+Source Type: Official Catalog
+
+URL: https://catalog.ucmerced.edu/content.php?catoid=22&navoid=2362
+
+Document Category: Degree Planning
+
+Content:
+
+OVERVIEW
+The Computer Science and Engineering B.S. degree follows a four-year plan consisting of lower-division preparation, upper-division requirements, technical electives, general education requirements, and a culminating software engineering experience.
+
+FOUR-YEAR COURSE PLAN
+
+First Year
+
+Fall	
+- MATH 021: Calculus I
+- WRI 010: College Reading and Composition
+- CSE 022: Introduction to Programming
+- SPRK 001/010: Spark Seminar  
+
+Spring
+- MATH 022: Calculus II for Physical Sciences and Engineering 
+- CSE 015: Discrete Mathematics 
+- CSE 024: Advanced Programming 
+- General Education: AREA B
+- ENGR 091: Professional Development: People in an Engineered World 
+
+Second Year
+
+Fall
+- MATH 023: Vector Calculus 
+- MATH 032: Probability and Statistics 
+- CSE 030: Data Structures 
+- General Education: AREA A–Life Science
+
+Spring
+- MATH 024: Linear Algebra and Differential Equations 
+- CSE 031: Computer Organization and Assembly Language 
+- CSE 100: Algorithm Design and Analysis 
+- General Education: AREA B
+
+Third Year
+
+Fall
+- PHYS 008: Introductory Physics I for Physical Sciences and PHYS 008L 
+- Major Technical Elective
+- Major Technical Elective
+- General Education: AREA B
+
+Spring
+- PHYS 009: Introductory Physics II for Physical Sciences and PHYS 009L 
+- Major Technical Elective
+- Major Technical Elective
+- General Education: Writing in the Discipline
+
+Fourth Year
+
+Fall
+- ENGR 065: Circuit Theory 
+- Major Technical Elective
+- Major Technical Elective
+- Free Elective
+
+Spring
+- CSE 120: Software Engineering 
+- Major Technical Elective
+- Major Technical Elective
+- Free Elective
+
+KEY LOWER-DIVISION CSE COURSES
+
+- CSE 022: Introduction to Programming
+- CSE 024: Advanced Programming
+- CSE 030: Data Structures
+- CSE 031: Computer Organization and Assembly Language
+- CSE 100: Algorithm Design and Analysis
+
+COMMON UPPER-DIVISION CSE COURSES
+
+- CSE 107: Digital Image Processing
+- CSE 111: Database Systems
+- CSE 135: Theory of Computation
+- CSE 140: Computer Architecture
+- CSE 150: Operating Systems
+- CSE 155: Human-Computer Interaction
+- CSE 160: Computer Networks
+- CSE 175: Artificial Intelligence
+- CSE 176: Machine Learning
+- CSE 178: Computer Security
+- CSE 179: Parallel Computing
+- CSE 180: Robotics
+- CSE 185: Computer Vision
+
+
+All General Education course option to meet the requirements of general education for the course plan:
+
+I. Spark Seminar
+SPRK 001: Spark Seminar 
+SPRK 010: Spark Seminar 
+
+II. Written Communication
+Prerequisite Courses: WRI 001 or equivalent exam
+WRI 010: College Reading and Composition
+
+III. Quantitative Reasoning
+MATH 021: Calculus I for Physical Sciences and Engineering
+
+IV. Language
+CSE 022: Introduction to Programming 
+Upper Division Common Course Requirements
+
+I. Crossroads Course 
+Requirement can be met with almost any CSE upper level course example:
+
+CSE 100: Algorithm Design and Analysis Units: 4
+CSE 107: Introduction to Digital Image Processing Units: 4
+CSE 111: Database Systems Units: 4
+CSE 135: Introduction to Theory of Computation Units: 4
+
+II. Writing in the Discipline
+Requirement can be met with any writing upperlevel course example
+
+WRI 100: Advanced Writing Units: 4
+WRI 101: Writing in the Disciplines: Psychology Units: 4
+WRI 101A: Special Topics in Writing for the Psychological Sciences Units: 4
+
+III. Culminating Experience
+CSE 120: Software Engineering Units: 4
+
+APPROACHES TO KNOWLEDGE AND GENERAL EDUCATION RECOMMENDATIONS FOR CSE MAJORS
+
+The courses below are examples of options that satisfy General Education (GE) and Intellectual Experience requirements while also complementing the Computer Science and Engineering major. Students should consult the official catalog for the complete list of approved courses.
+
+AREA A: LIFE AND PHYSICAL SCIENCE
+
+Required for most CSE students:
+
+* PHYS 008: Introductory Physics I for Physical Sciences
+* PHYS 009: Introductory Physics II for Physical Sciences
+
+Recommended alternatives and electives:
+
+* COGS 130: Cognitive Neuroscience
+* ENVE 010: Environment in Crisis
+* ESS 001: Introduction to Earth Systems Science
+* PH 110: Environmental Health
+
+Why useful for CSE students:
+These courses provide scientific reasoning skills and can complement interests in AI, data science, environmental computing, health technology, and human-centered computing.
+
+AREA B: SOCIAL SCIENCE, HUMANITIES, AND CULTURE
+
+Popular options relevant to CSE students:
+
+* COGS 001: Introduction to Cognitive Science
+* ECON 001: Introduction to Economics
+* MIST 050: Introduction to Entrepreneurship
+* PHIL 102: Epistemology
+* POLI 001: Introduction to American Politics
+* PSY 001: Introduction to Psychology
+* SOC 001: Introduction to Sociology
+
+Additional options:
+
+* GEOG 112: GIS for World Economic History
+* HS 112: GIS for World Economic History
+* MGMT 118: Women in Executive Leadership
+
+Why useful for CSE students:
+These courses help develop understanding of users, organizations, entrepreneurship, decision-making, ethics, and social impacts of technology.
+
+INTELLECTUAL EXPERIENCE REQUIREMENTS
+
+Scientific Method (Recommended for CSE Students)
+
+Courses that align particularly well with computing, AI, and data science:
+
+* CSE 176: Introduction to Machine Learning
+* ENGR 080: Statistical Modeling and Data Analysis for Engineers
+* MATH 180: Modern Applied Statistics
+* MIST 130: Statistical Data Analysis and Optimization in R
+* PH 010: Introduction to Biostatistics
+
+These courses are especially valuable because they strengthen quantitative analysis, data interpretation, and machine learning foundations.
+
+Diversity and Identity
+
+Recommended options:
+
+* CCST 060: Introduction to Chicano/a Culture and Experiences
+* CRES 001: Introduction to Critical Race and Ethnic Studies
+* MGMT 118: Women in Executive Leadership
+* POLI 001: Introduction to American Politics
+* PSY 124: Health Disparities
+* SOC 001: Introduction to Sociology
+
+Global Awareness
+
+Recommended options:
+
+* GEOG 112: GIS for World Economic History
+* ENVE 164: Energy Policy
+* MGMT 128: Global Markets and Investment Banking
+* PH 001: Introduction to Public Health
+* POLI 003: Introduction to Comparative Politics
+
+Sustainability
+
+Recommended options:
+
+* ENGR 180: Spatial Analysis and Modeling
+* CSE 160: Computer Networks
+* ESS 002: Sustainability Science
+* ENVE 010: Environment in Crisis
+* PH 110: Environmental Health
+
+Particularly useful for students interested in environmental data science, GIS, smart infrastructure, or sustainability applications of computing.
+
+Ethics
+
+Recommended options:
+
+* ENGR 091: Professional Development: People in an Engineered World
+* MGMT 123: Business Ethics
+* PHIL 002: Introduction to Ethics
+* POLI 112: Public Policy: Analysis, Strategy, and Impact
+* CHEM 194: Ethics and Communication in Chemistry
+
+These courses help students understand professional responsibility, ethical decision-making, and the societal impact of technology.
+
+
+

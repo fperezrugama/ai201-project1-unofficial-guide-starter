@@ -1,0 +1,219 @@
+Title: Rate My Professor - Ammon Hepworth
+
+Source Type: Student Reviews
+
+URL: https://www.ratemyprofessors.com/professor/2767416
+
+Document Category: Professor Reviews and Course Experiences
+
+Professor Information
+
+Name: Ammon Hepworth
+
+Department:
+- Computer Science and Engineering
+
+Courses Commonly Reviewed:
+- CSE 108 Web Development
+- CSE 106 Web Development
+
+Overall Rating Summary
+
+Overall Quality:
+- 4.2 / 5
+
+Would Take Again:
+- 84%
+
+Difficulty:
+- 2.2 / 5
+
+--------------------------------------------------
+
+CSE 108: Web Development
+
+General Student Consensus
+
+Students generally view CSE 108 as one of the easier and more relaxed upper-division CSE electives. The course is often recommended for students interested in web development or looking for a lighter technical elective workload.
+
+Reviews suggest that students who enjoy building websites and applications tend to have a positive experience.
+
+However, several students note that success in the course requires independent learning and experimentation outside of lecture.
+
+--------------------------------------------------
+
+Course Structure
+
+Frequently Mentioned Components:
+
+- Mandatory lab attendance.
+- Weekly lab activities.
+- One midterm exam.
+- Final group project.
+- Significant focus on building applications and websites.
+- Group-based work and presentations.
+
+Students repeatedly mention that the final project is one of the most important parts of the course.
+
+--------------------------------------------------
+
+What Students Like About the Course
+
+Practical Development Experience
+
+Students appreciate that the course allows them to create applications and websites using their own ideas and implementation choices.
+
+Common comments include:
+
+- Freedom in project design.
+- Opportunity to build real applications.
+- Hands-on learning experience.
+- Useful web development concepts.
+
+Professor Personality and Teaching Style
+
+Students frequently describe Professor Hepworth as:
+
+- Friendly
+- Caring
+- Relaxed
+- Supportive
+- Fun to learn from
+
+Representative Student Feedback:
+
+"One of my favorite professors in the CSE department."
+
+"Very caring professor and very laid back."
+
+"Clearly has fun teaching, which makes the class fun to take."
+
+"One of the nicest professors in the department."
+
+--------------------------------------------------
+
+Common Criticisms
+
+Self-Teaching Requirement
+
+The most common criticism is that students often need to learn significant portions of the technology stack independently.
+
+Several reviews mention:
+
+- Lectures cover only part of what is needed for projects.
+- Homework and projects sometimes require additional outside learning.
+- Students seeking a highly structured web development curriculum may feel unsupported.
+
+Representative Student Feedback:
+
+"If you want to learn full-stack web development, you can't rely only on the professor."
+
+"He teaches some of the basics, but projects expect more."
+
+"Much of the course is self-taught."
+
+Course Organization
+
+One review describes the course as:
+
+- Easy to pass.
+- Poorly organized.
+- Focused heavily on memorization for the midterm.
+
+However, this opinion appears less common than the positive reviews.
+
+--------------------------------------------------
+
+CSE 108 Midterm Feedback
+
+Students report:
+
+- Only one midterm.
+- Expectations are generally clear.
+- Material is straightforward if students pay attention.
+
+One review disagrees and describes the exam as focusing heavily on syntax memorization.
+
+This suggests that student experiences may vary depending on learning style and prior programming experience.
+
+--------------------------------------------------
+
+Final Project Feedback
+
+The final project is one of the most discussed parts of the course.
+
+Students mention:
+
+- Group-based development project.
+- Opportunity to create websites or applications.
+- Significant flexibility in implementation.
+- Presentation component at the end of the semester.
+
+One student specifically recommends:
+
+"During project presentations, emphasize what makes your project unique and interesting."
+
+--------------------------------------------------
+
+CSE 106: Web Development
+
+Student Feedback
+
+Although fewer reviews are available, feedback is overwhelmingly positive.
+
+Students describe:
+
+- Clear explanations.
+- Interesting lectures.
+- Strong web development content.
+- Supportive classroom environment.
+
+Representative Student Feedback:
+
+"One of the nicest and best professors in the CSE department."
+
+"Very informative and interesting web development class."
+
+"Lectures and explanations are often very clear."
+
+--------------------------------------------------
+
+Recurring Themes Across Reviews
+
+Strengths
+
+- Friendly and approachable personality.
+- Creates a relaxed classroom atmosphere.
+- Clear expectations for projects and labs.
+- Practical web development experience.
+- Courses are considered relatively manageable compared to many upper-division CSE electives.
+- Strong final projects.
+
+Challenges
+
+- Significant independent learning may be required.
+- Some students feel lectures do not fully prepare them for projects.
+- Course organization can sometimes feel loose.
+- Students seeking deep full-stack instruction may need outside resources.
+
+--------------------------------------------------
+
+Advice From Former Students
+
+For Students Taking CSE 108:
+
+- Attend labs because important instructions are often given there.
+- Start project work early.
+- Be comfortable learning new frameworks or tools independently.
+- Use online documentation and tutorials when needed.
+- Treat the class as a practical development experience rather than a purely lecture-driven course.
+
+--------------------------------------------------
+
+Overall Student Consensus
+
+Students overwhelmingly like Professor Ammon Hepworth as a person and instructor. He is frequently described as friendly, caring, approachable, and enjoyable to learn from. CSE 108 is generally considered one of the easier and more relaxed upper-division electives in the major.
+
+The most common criticism is not the professor himself, but the amount of independent learning required. Students who are comfortable teaching themselves new web technologies tend to enjoy the course significantly more than students expecting detailed instruction on every topic.
+
+For students interested in web development, project-based learning, and practical application building, CSE 108 with Professor Hepworth is often viewed as one of the more enjoyable electives in the UC Merced CSE curriculum.

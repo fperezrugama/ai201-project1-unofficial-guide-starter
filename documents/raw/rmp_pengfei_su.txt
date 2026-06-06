@@ -1,0 +1,131 @@
+Title: Rate My Professor - Pengfei Su
+
+Source Type: Student Reviews
+
+URL: https://www.ratemyprofessors.com/professor/2723300
+
+Document Category: Professor Reviews and Course Experiences
+
+Professor Information
+
+Name: Pengfei Su
+
+Department:
+
+Computer Science and Engineering
+
+Courses Commonly Reviewed:
+
+CSE 100 Algorithm Design and Analysis
+CSE 141 Introduction to Compiler Construction
+CSE 165 Introduction to Object-Oriented Programming
+
+Overall Rating Summary
+
+Overall Quality: 1.4 / 5
+
+Would Take Again: 12%
+
+Difficulty: 4.2 / 5
+
+Common Positive Themes
+
+* Considered approachable and polite by some students.
+* Responds to emails and feedback.
+* Frequently curves exams or adjusts grading scales.
+* Accommodating when students communicate concerns.
+
+Course-Specific Feedback:
+
+----------------------------------
+
+CSE 100: Algorithm Design and Analysis
+
+Frequently Mentioned Strengths
+
+Curves exams and final grades.
+Open to student feedback.
+Generally viewed as kind and approachable.
+
+Frequently Mentioned Challenges
+
+Exams account for approximately 80% of the course grade.
+Lectures often follow slides closely.
+Limited study materials for exams.
+Students frequently report learning the material independently.
+
+Representative Student Opinions
+
+Course is difficult even with grading adjustments.
+Success often requires extensive self-study.
+Lectures may not provide sufficient preparation for exams.
+Many students view CSE 100 as significantly harder because of course structure and assessment weighting.
+
+----------------------------------
+
+CSE 141: Introduction to Compiler Construction
+
+Frequently Mentioned Strengths
+
+Participation exercises may reinforce lecture material.
+Some students report that attending class and participating helps exam preparation.
+
+Frequently Mentioned Challenges
+
+Lecture organization and clarity are recurring concerns.
+Some students report difficulty understanding explanations.
+Several reviews mention communication issues.
+
+Representative Student Opinions
+
+Students report mixed experiences.
+Reviews range from positive participation-based learning experiences to significant dissatisfaction with lecture quality.
+
+----------------------------------
+
+CSE 165: Introduction to Object-Oriented Programming
+
+Frequently Mentioned Strengths
+
+Labs are generally considered manageable.
+Some students describe the professor as flexible and willing to accommodate requests.
+Feedback occasionally resulted in course adjustments.
+
+Frequently Mentioned Challenges
+
+Lectures frequently described as difficult to follow.
+Project expectations are sometimes unclear.
+Students report inconsistent communication regarding assignments and grading.
+Labs and projects are often viewed as graded strictly.
+
+Representative Student Opinions
+
+Some students appreciated flexibility and responsiveness.
+Others felt the course lacked clear instruction and organization.
+Reviews are mixed but lean negative overall.
+
+----------------------------------
+
+Recurring Themes Across All Courses
+
+Teaching Style
+
+Heavy reliance on lecture slides.
+Students often report needing independent learning.
+Lecture clarity is the most frequently mentioned concern.
+
+Grading
+
+Exams often carry significant weight.
+Curves and grading adjustments are common.
+Students have mixed opinions about fairness and consistency.
+
+Course Difficulty
+
+CSE 100 is frequently described as difficult regardless of instructor.
+CSE 141 is considered technically challenging.
+CSE 165 receives mixed difficulty ratings depending on prior programming experience.
+
+Overall Student Consensus
+
+Students generally view Professor Pengfei Su as approachable and willing to accommodate feedback, but many reviews express concerns regarding lecture effectiveness, communication, and heavy reliance on self-study. The strongest recurring themes are difficult exams, slide-based lectures, and substantial independent learning requirements.
