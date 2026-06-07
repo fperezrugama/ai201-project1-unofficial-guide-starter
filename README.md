@@ -34,8 +34,7 @@
 | 6 | Reddit: Hardest and Easiest CSE Electives | Reddit Discussion |reddit_hardest_electives.txt https://www.reddit.com/r/ucmerced/comments/1nu6w64/comment/ngzspcp/ |
 | 7 | Reddit: How is the CSE Program at UC Merced? | Reddit Discussion | reddit_cse_program.txt  https://www.reddit.com/r/ucmerced/comments/1i1njqh/how_is_the_computer_science_and_engineering/ |
 | 8 | Reddit: Will CSE Become Impacted? | Reddit Discussion | reddit_cse_impacted_advice.txt https://www.reddit.com/r/ucmerced/comments/1gvksls/will_cse_ever_be_impacted_at_ucm/ |
-| 9 |Quora: Does the CSE Major Focus on Programming? | Quora Discussion | quora_programming_focus.txt https://www.quora.com/Does-the-major-of-computer-science-and-engineering-have-a-focus-on-programming-at-all-I-am-interested-in-programming-and-want-to-go-to-UC-Merced
-|
+| 9 |Quora: Does the CSE Major Focus on Programming? | Quora Discussion | quora_programming_focus.txt https://www.quora.com/Does-the-major-of-computer-science-and-engineering-have-a-focus-on-programming-at-all-I-am-interested-in-programming-and-want-to-go-to-UC-Merced |
 | 10 |Rate My Professor – Angelo Kyrilov | Student Reviews | rmp_angelo_kyrilov.txt https://www.ratemyprofessors.com/professor/2287924 |
 | 11 | Rate My Professor – Pengfei Su | Student Reviews |rmp_pengfei_su.txt https://www.ratemyprofessors.com/professor/2723300 |
 | 12 | Rate My Professor – Santosh Chandrasekhar | Student Reviews | rmp_santosh_chandrasekhar.txt https://www.ratemyprofessors.com/professor/2426500 |
