@@ -29,12 +29,20 @@ APP_CSS = """
 :root {
     --bobcat-navy: #002856;
     --bobcat-gold: #fdb515;
+    --navy-soft: #e9f0f8;
     --soft-gray: #f5f7fb;
+    --card-bg: #ffffff;
+    --field-bg: #ffffff;
+    --panel-border: #dbe4f0;
     --ink: #172033;
+    --muted: #5f6b7a;
+    --placeholder: #728196;
 }
 
 .gradio-container {
-    background: linear-gradient(180deg, #f7f9fd 0%, #ffffff 42%);
+    background:
+        radial-gradient(circle at top left, rgba(0, 40, 86, 0.10), transparent 32%),
+        linear-gradient(180deg, #eef4fb 0%, #f8fafc 42%, #ffffff 100%);
     color: var(--ink);
     font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
@@ -42,38 +50,213 @@ APP_CSS = """
 .app-shell {
     max-width: 1080px;
     margin: 0 auto;
+    padding: 22px 14px 34px;
 }
 
 .hero {
-    border-left: 6px solid var(--bobcat-gold);
-    background: #ffffff;
+    position: relative;
+    background: var(--card-bg);
+    color: var(--ink);
     border-radius: 8px;
-    padding: 22px 24px;
-    box-shadow: 0 12px 30px rgba(0, 40, 86, 0.08);
+    padding: 28px 30px 24px;
+    border: 1px solid var(--panel-border);
+    box-shadow: 0 14px 36px rgba(0, 40, 86, 0.10);
+    overflow: hidden;
+}
+
+.hero::before {
+    content: "";
+    position: absolute;
+    inset: 0 auto 0 0;
+    width: 7px;
+    background: linear-gradient(180deg, var(--bobcat-gold), #ffd76a);
+}
+
+.hero::after {
+    content: "";
+    position: absolute;
+    top: 18px;
+    right: 22px;
+    width: 54px;
+    height: 5px;
+    border-radius: 999px;
+    background: var(--bobcat-gold);
+    opacity: 0.85;
 }
 
 .hero h1 {
     color: var(--bobcat-navy);
-    font-size: 32px;
-    margin-bottom: 6px;
+    font-size: 38px;
+    line-height: 1.08;
+    margin: 0 0 8px;
+    font-weight: 800;
+}
+
+.hero .tagline {
+    color: var(--bobcat-navy);
+    font-size: 15px;
+    font-weight: 700;
+    margin: 0 0 8px;
+    letter-spacing: 0.02em;
 }
 
 .hero p {
-    color: #4a5568;
+    color: var(--muted);
     font-size: 16px;
+    line-height: 1.55;
     margin: 0;
 }
 
-.source-box {
-    background: var(--soft-gray);
-    border: 1px solid #d9e2ef;
+.panel-card {
+    background: var(--card-bg) !important;
+    color: var(--ink) !important;
+    border: 1px solid var(--panel-border);
     border-radius: 8px;
-    padding: 12px;
+    padding: 16px;
+    box-shadow: 0 10px 24px rgba(0, 40, 86, 0.08);
+}
+
+.panel-card label,
+.panel-card .label-wrap,
+.question-card label,
+.question-card .label-wrap {
+    color: var(--bobcat-navy) !important;
+    font-weight: 750 !important;
+}
+
+.question-card textarea,
+.question-card input,
+.answer-card textarea,
+.answer-card input {
+    background: var(--field-bg) !important;
+    color: var(--ink) !important;
+    border-color: var(--panel-border) !important;
+    caret-color: var(--bobcat-navy) !important;
+}
+
+.answer-card textarea,
+.answer-card input {
+    line-height: 1.6 !important;
+}
+
+.question-card textarea::placeholder,
+.question-card input::placeholder {
+    color: var(--placeholder) !important;
+    opacity: 1 !important;
+}
+
+.source-box {
+    background: var(--card-bg) !important;
+    color: var(--ink) !important;
+}
+
+.source-box h1,
+.source-box h2,
+.source-box h3,
+.source-box h4,
+.source-box label,
+.source-box .label-wrap {
+    color: var(--bobcat-navy) !important;
+}
+
+.source-box p,
+.source-box li {
+    color: var(--muted) !important;
+    line-height: 1.5 !important;
+}
+
+.source-box strong {
+    color: var(--bobcat-navy) !important;
+}
+
+.source-box ul {
+    background: var(--soft-gray);
+    border: 1px solid #e2e8f2;
+    border-radius: 8px;
+    padding: 10px 14px 10px 28px;
+    margin: 8px 0 14px;
+}
+
+.source-box code {
+    background: #edf2f7;
+    color: var(--bobcat-navy) !important;
+    border-radius: 4px;
+    padding: 2px 5px;
+}
+
+.dark .hero,
+.dark .panel-card,
+.dark .source-box,
+[data-theme="dark"] .hero,
+[data-theme="dark"] .panel-card,
+[data-theme="dark"] .source-box {
+    background: #f8fafc !important;
+    color: var(--ink) !important;
+    border-color: #cbd7e6 !important;
+}
+
+.dark .question-card textarea,
+.dark .question-card input,
+.dark .answer-card textarea,
+.dark .answer-card input,
+[data-theme="dark"] .question-card textarea,
+[data-theme="dark"] .question-card input,
+[data-theme="dark"] .answer-card textarea,
+[data-theme="dark"] .answer-card input {
+    background: #ffffff !important;
+    color: var(--ink) !important;
+    border-color: #cbd7e6 !important;
+}
+
+.dark .source-box p,
+.dark .source-box li,
+[data-theme="dark"] .source-box p,
+[data-theme="dark"] .source-box li {
+    color: #4b5a6d !important;
+}
+
+.dark .source-box strong,
+.dark .source-box label,
+.dark .source-box .label-wrap,
+.dark .panel-card label,
+.dark .panel-card .label-wrap,
+.dark .question-card label,
+.dark .question-card .label-wrap,
+[data-theme="dark"] .source-box strong,
+[data-theme="dark"] .source-box label,
+[data-theme="dark"] .source-box .label-wrap,
+[data-theme="dark"] .panel-card label,
+[data-theme="dark"] .panel-card .label-wrap,
+[data-theme="dark"] .question-card label,
+[data-theme="dark"] .question-card .label-wrap {
+    color: var(--bobcat-navy) !important;
+}
+
+textarea,
+input {
+    border-radius: 8px !important;
+}
+
+.form label {
+    color: var(--bobcat-navy) !important;
+    font-weight: 750 !important;
 }
 
 button.primary {
     background: var(--bobcat-navy) !important;
     border-color: var(--bobcat-navy) !important;
+    border-radius: 8px !important;
+    font-weight: 750 !important;
+    min-height: 44px;
+    box-shadow: 0 8px 18px rgba(0, 40, 86, 0.18);
+}
+
+button.primary:hover {
+    filter: brightness(1.08);
+}
+
+.examples {
+    border-radius: 8px !important;
 }
 """
 
@@ -138,15 +321,17 @@ with gr.Blocks(title="UC Merced CSE Unofficial Guide") as demo:
             """
             <div class="hero">
                 <h1>UC Merced CSE Unofficial Guide</h1>
+                <p class="tagline">Course Planning &bull; Professor Insights &bull; Student Experiences</p>
                 <p>Ask questions grounded in collected CSE documents, student discussions, course reviews, and professor summaries.</p>
             </div>
             """
         )
 
         question = gr.Textbox(
-            label="Question",
+            label="Ask a Question",
             placeholder="Ask about CSE requirements, electives, professors, or student experiences...",
             lines=3,
+            elem_classes=["question-card"],
         )
         ask_button = gr.Button("Ask", variant="primary")
 
@@ -156,10 +341,11 @@ with gr.Blocks(title="UC Merced CSE Unofficial Guide") as demo:
                 lines=12,
                 buttons=["copy"],
                 interactive=False,
+                elem_classes=["panel-card", "answer-card"],
             )
             sources = gr.Markdown(
-                label="Sources",
-                elem_classes=["source-box"],
+                label="Retrieved Sources",
+                elem_classes=["panel-card", "source-box"],
             )
 
         gr.Examples(
